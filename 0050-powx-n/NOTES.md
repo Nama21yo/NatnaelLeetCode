@@ -1,26 +1,18 @@
-Can the value of n can be negative?
-First use the brute force approach using iteration
+Function myPow(x: float, n: int) -> float
+If n < 0
+x = 1 / x
+n = -n
+Return helper(x, n)
 ​
-Function myPow(x, n) -> double
-Initialize finalAnswer to 1.0
-Initialize powerOf to n
-​
-If powerOf is negative
-Convert powerOf to positive
-​
-While powerOf is greater than 0
-If powerOf is even
-Square the base x
-Halve the power powerOf
+Function helper(x: float, n: int) -> float
+If n == 0
+Return 1
+Else if n is even
+ans = helper(x, n // 2)
+Return ans * ans
 Else
-Multiply finalAnswer by x
-Decrement powerOf by 1
+Return x * helper(x, n - 1)
 ​
-If n was negative
-Invert finalAnswer
-​
-Return finalAnswer
-​
-// Time Complexity: O(log n), where n is the power. The loop runs log(n) times due to the halving of the power.
-// Space Complexity: O(1), as no extra space is used other than a few variables.
+// Time Complexity: O(log n), where n is the power. The recursion depth is log(n) due to the halving of the power.
+// Space Complexity: O(log n), due to the recursion stack.
 ​
