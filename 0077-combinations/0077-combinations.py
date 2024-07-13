@@ -2,22 +2,33 @@ from typing import List
 
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
+        # List to store all combinations
+        combs = []
+        
+        # List to store the current combination being constructed
+        subs = []
+        
         # Helper function for backtracking
-        def backtrack(first_num, path):
-            # If the path length is equal to k, add the path to the result
-            if len(path) == k:
-                ans.append(path[:])
+        def backtrack(i, subs, combs, k, n):
+            # If the current combination is of the desired length, add it to the result list
+            if len(subs) == k:
+                combs.append(subs.copy())  # Use copy to avoid reference issues
                 return
             
-            # Iterate from the current number to n
-            for num in range(first_num, n + 1):
-                # Add the current number to the path
-                path.append(num)
-                # Recursively backtrack with the next number
-                backtrack(num + 1, path)
-                # Remove the last number added to the path to backtrack
-                path.pop()
+            # If the current index exceeds n, stop the recursion
+            if i > n:
+                return
+            
+            # Include the current element and proceed
+            subs.append(i)
+            backtrack(i + 1, subs, combs, k, n)
+            
+            # Exclude the current element (backtrack) and proceed
+            subs.pop()
+            backtrack(i + 1, subs, combs, k, n)
         
-        ans = []
-        backtrack(1, [])
-        return ans
+        # Start the backtracking process from 1
+        backtrack(1, subs, combs, k, n)
+        
+        # Return the list of all combinations
+        return combs
