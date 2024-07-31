@@ -1,21 +1,28 @@
-Complexity Analysis
+𝑂
+(
+1
+)
+O(1), considering the space used for the pointers and variables.
+​
+In-place Merging: The function merges the lists in-place without using any additional data structures that grow with the input size.
+Constant Extra Space: It uses a few extra variables (e.g., dummy, current, list1, list2), which do not depend on the size of the input lists. Therefore, the space complexity is
+𝑂
+(
+1
+)
+O(1).
+Summary
 Time Complexity:
-​
-The time complexity is
 𝑂
 (
 𝑛
 +
 𝑚
 )
-O(n+m), where n and m are the lengths of the input lists l1 and l2, respectively. Each node is processed exactly once.
+O(n+m)
 Space Complexity:
-​
-The space complexity is
 𝑂
 (
-𝑛
-+
-𝑚
+1
 )
-O(n+m) due to the recursion stack. In the worst case, the depth of the recursion will be equal to the total number of nodes in both lists.
+O(1)
