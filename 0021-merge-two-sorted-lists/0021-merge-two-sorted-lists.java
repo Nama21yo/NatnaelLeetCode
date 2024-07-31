@@ -9,18 +9,31 @@
  * }
  */
 class Solution {
-    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
-        // Base cases: if one of the lists is null, return the other list
-        if (l1 == null) return l2;
-        if (l2 == null) return l1;
-
-        // Recursive case: compare the values and merge accordingly
-        if (l1.val < l2.val) {
-            l1.next = mergeTwoLists(l1.next, l2);  // Merge the rest of l1 and l2
-            return l1;  // l1 is the smaller node, so return it as the new head
-        } else {
-            l2.next = mergeTwoLists(l1, l2.next);  // Merge l1 and the rest of l2
-            return l2;  // l2 is the smaller node, so return it as the new head
+    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+        // Create a dummy node to simplify the merge process
+        ListNode dummy = new ListNode(0);
+        ListNode current = dummy;
+        
+        // Traverse both lists and compare nodes
+        while (list1 != null && list2 != null) {
+            if (list1.val <= list2.val) {
+                current.next = list1;
+                list1 = list1.next;
+            } else {
+                current.next = list2;
+                list2 = list2.next;
+            }
+            current = current.next;
         }
+        
+        // Append the remaining nodes of either list1 or list2
+        if (list1 != null) {
+            current.next = list1;
+        } else if (list2 != null) {
+            current.next = list2;
+        }
+        
+        // Return the merged list, which starts from dummy.next
+        return dummy.next;
     }
 }
