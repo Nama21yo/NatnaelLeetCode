@@ -1,22 +1,24 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
-        int N = nums.length;
+        int[] result = new int[nums.length];
         
-        int[] output_arr = new int[N];
+        // Initialize the result array with 1s
+        Arrays.fill(result, 1);
         
-        output_arr[0] = 1;
+        int prefix = 1, post = 1;
         
-        for(int i=1; i<N; i++) {
-            output_arr[i] = nums[i-1] * output_arr[i-1];
+        // First pass: calculate the prefix product for each element
+        for (int i = 0; i < nums.length; i++) {
+            result[i] = prefix;
+            prefix *= nums[i]; // Update the prefix product
         }
         
-        int R = 1;
-        for (int i = N-1; i>=0; i--) {
-            output_arr[i] = output_arr[i] * R;
-            R = R * nums[i];
+        // Second pass: calculate the postfix product and multiply it with the prefix product
+        for (int i = nums.length - 1; i >= 0; i--) {
+            result[i] *= post; // Multiply by the postfix product
+            post *= nums[i]; // Update the postfix product
         }
         
-        return output_arr;
-        
+        return result;
     }
 }
