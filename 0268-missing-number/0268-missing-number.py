@@ -1,12 +1,11 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
-        n = len(nums)
-        trueSum = n * (n + 1) / 2
+        xor1 = 0
+        xor2 = 0
         
-        listSum = 0
         for i in range(len(nums)):
-            listSum += nums[i]
+            xor2 = xor2 ^ nums[i]
+            xor1 = xor1 ^ (i + 1)
         
-        
-        return (int)(trueSum - listSum)
+        return (xor1 ^ xor2)
         
