@@ -1,15 +1,8 @@
 class Solution:
     def rearrangeArray(self, nums: List[int]) -> List[int]:
-        # optimal
-        ans = [1]*len(nums)
-        positiveIndex = 0
-        negativeIndex = 1
+        # Separate positive and negative numbers
+        positives = [num for num in nums if num >= 0]
+        negatives = [num for num in nums if num < 0]
         
-        for i in range(len(nums)):
-            if nums[i] < 0:
-                ans[negativeIndex] = nums[i]
-                negativeIndex += 2
-            else:
-                ans[positiveIndex] = nums[i]
-                positiveIndex += 2
-        return ans
+        # Interleave positive and negative numbers
+        return [positives[i//2] if i % 2 == 0 else negatives[i//2] for i in range(len(nums))]
