@@ -1,23 +1,33 @@
 class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
-        # Step 1: Swap elements between nums1 and nums2 where necessary
-        left = m - 1  # Last index of initialized elements in nums1
-        right = 0     # First index of nums2
+         # Calculate the initial gap
+        gap = math.ceil((m + n) / 2)
 
-        # Swap larger elements from nums1 with smaller elements from nums2
-        while left >= 0 and right < n:
-            if nums1[left] > nums2[right]:
-                # Swap the elements between nums1 and nums2
-                nums1[left], nums2[right] = nums2[right], nums1[left]
-            left -= 1
-            right += 1
+        def swap_elements(left, right):
+            """Helper function to swap elements if needed."""
+            if left < m and right >= m:
+                if nums1[left] > nums2[right - m]:
+                    nums1[left], nums2[right - m] = nums2[right - m], nums1[left]
+            elif left >= m:
+                if nums2[left - m] > nums2[right - m]:
+                    nums2[left - m], nums2[right - m] = nums2[right - m], nums2[left - m]
+            else:
+                if nums1[left] > nums1[right]:
+                    nums1[left], nums1[right] = nums1[right], nums1[left]
 
-        # Step 2: Sort both arrays (nums1 and nums2)
-        nums1[:m] = sorted(nums1[:m])  # Sort only the initialized part of nums1
-        nums2.sort()                   # Sort all of nums2
+        while gap > 0:
+            left = 0
+            right = left + gap
 
-        # Step 3: Merge nums2 into nums1 starting from the m-th position
-        nums1[m:] = nums2              # Copy elements from nums2 to nums1
+            while right < (m + n):
+                swap_elements(left, right)
+                left += 1
+                right += 1
 
-        # Step 4: Sort the entire nums1 array
+            # Recalculate the gap for the next iteration
+            if gap == 1:
+                break
+            gap = math.ceil(gap / 2)
+        # Finally, merge nums2 into nums1
+        nums1[m:] = nums2
         nums1.sort()  # Sort the final nums1 array
