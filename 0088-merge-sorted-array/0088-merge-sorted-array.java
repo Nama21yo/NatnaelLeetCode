@@ -1,53 +1,34 @@
-class Solution {
-     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        int len = n + m; // Total length of both arrays
-        int gap = (len / 2) + (len % 2); // Initial gap
 
-        while (gap > 0) {
-            int left = 0;
-            int right = left + gap;
-
-            while (right < len) {
-                // Case 1: nums1 and nums2 (left is in nums1, right is in nums2)
-                if (left < m && right >= m) {
-                    if (nums1[left] > nums2[right - m]) {
-                        // Swap between nums1 and nums2
-                        int temp = nums1[left];
-                        nums1[left] = nums2[right - m];
-                        nums2[right - m] = temp;
-                    }
-                }
-                // Case 2: nums2 and nums2 (both left and right are in nums2)
-                else if (left >= m) {
-                    if (nums2[left - m] > nums2[right - m]) {
-                        // Swap within nums2
-                        int temp = nums2[left - m];
-                        nums2[left - m] = nums2[right - m];
-                        nums2[right - m] = temp;
-                    }
-                }
-                // Case 3: nums1 and nums1 (both left and right are in nums1)
-                else {
-                    if (nums1[left] > nums1[right]) {
-                        // Swap within nums1
-                        int temp = nums1[left];
-                        nums1[left] = nums1[right];
-                        nums1[right] = temp;
-                    }
-                }
-
-                left++;
-                right++;
+public class Solution {
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+        // Step 1: Swap elements between nums1 and nums2 where necessary
+        int left = m - 1;  // Last index of initialized elements in nums1
+        int right = 0;     // First index of nums2
+        
+        // Swap larger elements from nums1 with smaller elements from nums2
+        while (left >= 0 && right < n) {
+            if (nums1[left] > nums2[right]) {
+                // Swap the elements between nums1 and nums2
+                int temp = nums1[left];
+                nums1[left] = nums2[right];
+                nums2[right] = temp;
             }
-
-            // Reduce the gap for the next iteration
-            if (gap == 1) break;
-            gap = (gap / 2) + (gap % 2);
+            left--;
+            right++;
         }
 
-        // Now merge nums2 into nums1 after sorting
-        for (int i = 0; i < n; i++) {
-            nums1[m + i] = nums2[i];
+        // Step 2: Sort both arrays (nums1 and nums2)
+        Arrays.sort(nums1, 0, m); // Sort only the initialized part of nums1
+        Arrays.sort(nums2);       // Sort all of nums2
+        
+        // Step 3: Merge nums2 into nums1 starting from the m-th position
+        int i = m;  // Start from the m-th index in nums1
+        for (int j = 0; j < n; j++) {
+            nums1[i] = nums2[j];
+            i++;
         }
+        
+        // Step 4: Sort the entire nums1 array
+        Arrays.sort(nums1);  // Sort the final nums1 array
     }
 }
