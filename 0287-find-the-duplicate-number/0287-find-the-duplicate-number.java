@@ -1,20 +1,20 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-        HashMap<Integer, Integer> countNum = new HashMap<>();
-
-        // Populate the map with the frequency of each number
-        for (int i = 0; i < nums.length; i++) {
-            countNum.put(nums[i], countNum.getOrDefault(nums[i], 0) + 1);
+        // Using Floyd's Tortoise and Hare
+        int slow = nums[0];
+        int fast = nums[0];
+        
+        do {
+            slow = nums[slow];
+            fast = nums[nums[fast]];
+        } while(slow != fast);
+        
+        fast = nums[0];
+        while(slow != fast) {
+            slow = nums[slow];
+            fast = nums[fast];
         }
-
-        // Iterate through the map and return the number which has a count greater than 1
-        for (int key : countNum.keySet()) {
-            if (countNum.get(key) > 1) {
-                return key;
-            }
-        }
-
-        // In case there's no duplicate (though problem assumes there is always one)
-        return -1;
+        
+        return slow; // or it can be fast
     }
 }
