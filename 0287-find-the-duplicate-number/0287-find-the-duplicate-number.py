@@ -1,16 +1,20 @@
 class Solution:
-    def findDuplicate(self, nums: List[int]) -> int:
-        
-        countNum = {}
+    def findDuplicate(self, nums):
+        # Using Floyd's Tortoise and Hare (Cycle Detection)
+        slow = nums[0]
+        fast = nums[0]
 
-        # Populate the dictionary with the frequency of each number
-        for num in nums:
-            countNum[num] = countNum.get(num, 0) + 1
+        # Phase 1: Finding the intersection point in the cycle
+        while True:
+            slow = nums[slow]
+            fast = nums[nums[fast]]
+            if slow == fast:
+                break
 
-        # Iterate through the dictionary and return the number which has a count greater than 1
-        for key in countNum:
-            if countNum[key] > 1:
-                return key
+        # Phase 2: Finding the entrance to the cycle
+        fast = nums[0]
+        while slow != fast:
+            slow = nums[slow]
+            fast = nums[fast]
 
-        # In case there's no duplicate (though problem assumes there is always one)
-        return -1
+        return slow  # or fast
