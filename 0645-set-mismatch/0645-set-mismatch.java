@@ -1,61 +1,25 @@
 class Solution {
     public int[] findErrorNums(int[] arr) {
         
-        long N = arr.length;
+         long N = arr.length;
 
-        int xr = 0;  // XOR of all elements and numbers from 1 to N
+        long Sn1 = (N * (N + 1)) / 2;              // Sum of first N natural numbers
+        long Sn2 = Sn1 * (2 * N + 1) / 3;          // Sum of squares of first N natural numbers
+        long sum1 = 0;
+        long sum2 = 0;
 
-        // Perform XOR of all array elements and numbers from 1 to N
-        for (int i = 0; i < N; i++) {
-            xr = xr ^ (int) arr[i];
-            xr = xr ^ (i + 1);
+        for (long value : arr) {
+            sum1 += value;
+            sum2 += (value * value);
         }
 
-        // Find the rightmost set bit in xr (the bit where the two numbers differ)
-        int bitNo = 0;
-        while (true) {
-            if ((xr & (1 << bitNo)) != 0) {
-                break;
-            }
-            bitNo++;
-        }
+        long diff1 = sum1 - Sn1;                   // x - y (difference between actual sum and expected sum)
+        long diff2 = (sum2 - Sn2) / diff1;         // x + y (difference between actual square sum and expected square sum)
 
-        // Classify the numbers based on the found bit
-        int zero = 0;
-        int one = 0;
+        int repeating = (int)(diff1 + diff2) / 2;      // x (repeating number)
+        int missing = (int)(diff2 - repeating);          // y (missing number)
 
-        // XOR all elements in the array, based on the bitNo classification
-        for (int i = 0; i < N; i++) {
-            if ((arr[i] & (1 << bitNo)) != 0) {
-                one = one ^ (int) arr[i];
-            } else {
-                zero = zero ^ (int) arr[i];
-            }
-        }
-
-        // XOR numbers from 1 to N, again based on the bitNo classification
-        for (int i = 1; i <= N; i++) {
-            if ((i & (1 << bitNo)) != 0) {
-                one = one ^ i;
-            } else {
-                zero = zero ^ i;
-            }
-        }
-
-        // Determine which is repeating and which is missing
-        int count = 0;
-        for (int i = 0; i < N; i++) {
-            if (arr[i] == zero) count++;
-        }
-
-        // If 'zero' is the repeating number
-        if (count == 2) {
-            return new int[]{zero, one};
-        }
-
-        // Otherwise, 'one' is the repeating number
-        return new int[]{one, zero};
-
+        return new int[]{repeating, missing};     // Return array containing repeating and missing numbers
 
     }
 }
