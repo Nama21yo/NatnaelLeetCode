@@ -1,20 +1,19 @@
 class Solution {
-    private int getNext(int n) {
-        int totalSum = 0;
-        while (n > 0) {
-            int d = n % 10;
-            n = n / 10;
-            totalSum += d * d;
+    private int findSum(int n) {
+        int sum = 0;
+        while(n > 0) {
+            sum += (n % 10) * (n % 10);
+            n = n /  10;
         }
-        return totalSum;
+        return sum;
     }
-
     public boolean isHappy(int n) {
-        Set<Integer> seen = new HashSet<>();
-        while (n != 1 && !seen.contains(n)) {
-            seen.add(n);
-            n = getNext(n);
+        int slow = n;
+        int fast = findSum(n);
+        while(fast != 1 && slow != fast) {
+            slow = findSum(slow);
+            fast = findSum(findSum(fast));
         }
-        return n == 1;
+        return fast == 1;
     }
 }
