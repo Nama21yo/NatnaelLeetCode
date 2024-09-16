@@ -1,26 +1,24 @@
 class Solution {
     public int characterReplacement(String s, int k) {
-        int N = s.length();
-        int[] char_count = new int[26];  // Array to count occurrences of each character
-        
-        int window_start = 0;
-        int max_length = 0;
-        int max_count = 0;  // Maximum count of a single character in the current window
-        
-        for (int window_end = 0; window_end < N; window_end++) {
-            char_count[s.charAt(window_end) - 'A']++;  // Increment count of the current character
-            int current_char_count = char_count[s.charAt(window_end) - 'A'];
-            max_count = Math.max(max_count, current_char_count);  // Update max_count
-            
-            // Check if the current window is valid
-            while (window_end - window_start + 1 - max_count > k) {
-                char_count[s.charAt(window_start) - 'A']--;  // Decrement count of the character at window_start
-                window_start++;  // Move window_start to the right
+        HashMap<Character, Integer> countChar = new HashMap<>();
+        int left = 0, maxLen = 0, maxFreq = 0;
+
+        for (int right = 0; right < s.length(); right++) {
+            // Count the frequency of the current character
+            countChar.put(s.charAt(right), countChar.getOrDefault(s.charAt(right), 0) + 1);
+            // Track the frequency of the most frequent character in the window
+            maxFreq = Math.max(maxFreq, countChar.get(s.charAt(right)));
+
+            // If the current window size minus the most frequent character's count is greater than k, shrink the window
+            if ((right - left + 1) - maxFreq > k) {
+                countChar.put(s.charAt(left), countChar.get(s.charAt(left)) - 1);
+                left++;
             }
-            
-            max_length = Math.max(max_length, window_end - window_start + 1);  // Update max_length
+
+            // Update the maximum length of the valid window
+            maxLen = Math.max(maxLen, right - left + 1);
         }
-        
-        return max_length;  // Return the maximum length found
+
+        return maxLen;
     }
 }
