@@ -1,31 +1,31 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        // HashMap to store the last position of each character
-        HashMap<Character, Integer> map = new HashMap<>();
-        
-        int left = 0, right = 0; // Two pointers for the sliding window
-        int n = s.length(); // Length of the input string
-        int len = 0; // Variable to store the length of the longest substring
-        
-        // Iterate through the string
-        while (right < n) {
-            char currentChar = s.charAt(right); // Get the current character
-            
-            // If the character is already in the map, move the left pointer
-            if (map.containsKey(currentChar)) {
-                left = Math.max(map.get(currentChar) + 1, left);
-            }
-            
-            // Update the last position of the current character in the map
-            map.put(currentChar, right);
-            
-            // Calculate the length of the current substring and update the maximum length
-            len = Math.max(len, right - left + 1);
-            
-            // Move the right pointer
-            right++;
+        // Array to store the last seen index of each character (256 for extended ASCII)
+        int[] lastSeen = new int[256]; // Initialize an array for 256 ASCII characters
+        // Initialize all values to -1 since none of the characters have been seen
+        for (int i = 0; i < 256; i++) {
+            lastSeen[i] = -1;
         }
         
-        return len; // Return the length of the longest substring
+        int left = 0;  // Left pointer for the sliding window
+        int maxLen = 0;  // Variable to store the length of the longest substring
+        
+        // Iterate through the string using the right pointer
+        for (int right = 0; right < s.length(); right++) {
+            char currentChar = s.charAt(right); // Get the current character's ASCII value
+            
+            // Move the left pointer if the current character was already seen
+            if (lastSeen[currentChar] != -1) {
+                left = Math.max(lastSeen[currentChar] + 1, left);
+            }
+            
+            // Update the last seen position of the current character
+            lastSeen[currentChar] = right; //lastSeen['a'/97] = 0
+            
+            // Calculate the length of the current substring and update the max length
+            maxLen = Math.max(maxLen, right - left + 1);
+        }
+        
+        return maxLen;  // Return the length of the longest substring without repeating characters
     }
 }
