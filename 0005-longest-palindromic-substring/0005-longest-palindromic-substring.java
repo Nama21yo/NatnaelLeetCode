@@ -1,31 +1,36 @@
-class Solution {
+public class Solution {
     public String longestPalindrome(String s) {
-        //using expanding technique
-        int left = 0;
-        int right  = 0;
-
-        String maxStr = s.substring(0,1);
-        for(int i = 0; i < s.length();i++) {
-            String odd = expand(s,i,i);
-            String even = expand(s,i,i+1);
-
-            if(odd.length() > maxStr.length()){
-                maxStr = odd;
-            }
-
-            if(even.length() > maxStr.length()) {
-                maxStr = even;
-            }
-            
+        if (s.length() <= 1) {
+            return s;
         }
-     
+
+        int maxLen = 1;
+        String maxStr = s.substring(0, 1);
+        s = "#" + s.replaceAll("", "#") + "#";
+        int[] dp = new int[s.length()];
+        int center = 0;
+        int right = 0;
+
+        for (int i = 0; i < s.length(); i++) {
+            if (i < right) {
+                dp[i] = Math.min(right - i, dp[2 * center - i]);
+            }
+
+            while (i - dp[i] - 1 >= 0 && i + dp[i] + 1 < s.length() && s.charAt(i - dp[i] - 1) == s.charAt(i + dp[i] + 1)) {
+                dp[i]++;
+            }
+
+            if (i + dp[i] > right) {
+                center = i;
+                right = i + dp[i];
+            }
+
+            if (dp[i] > maxLen) {
+                maxLen = dp[i];
+                maxStr = s.substring(i - dp[i], i + dp[i] + 1).replaceAll("#", "");
+            }
+        }
+
         return maxStr;
-    }
-    private String expand(String s, int start, int end) {
-        while(start >= 0 && end < s.length() && s.charAt(start) == s.charAt(end)) {
-            start--;
-            end++;
-        }
-        return s.substring(start + 1,end);
     }
 }
