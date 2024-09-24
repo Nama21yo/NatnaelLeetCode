@@ -36,9 +36,11 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0053-maximum-subarray) |
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -72,6 +74,7 @@ LeetCode Solutions Of Natnael
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
