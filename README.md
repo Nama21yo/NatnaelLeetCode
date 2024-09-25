@@ -47,6 +47,7 @@ LeetCode Solutions Of Natnael
 | [0724-find-pivot-index](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1793-minimum-moves-to-make-array-complementary) |
@@ -58,6 +59,7 @@ LeetCode Solutions Of Natnael
 | [0560-subarray-sum-equals-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1793-minimum-moves-to-make-array-complementary) |
