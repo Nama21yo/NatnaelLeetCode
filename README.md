@@ -62,6 +62,7 @@ LeetCode Solutions Of Natnael
 | [1833-find-the-highest-altitude](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [3311-ant-on-the-boundary](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -79,6 +80,7 @@ LeetCode Solutions Of Natnael
 | [1833-find-the-highest-altitude](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [3311-ant-on-the-boundary](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Math
 |  |
 | ------- |
@@ -118,4 +120,8 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Simulation
+|  |
+| ------- |
+| [3311-ant-on-the-boundary](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3311-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
