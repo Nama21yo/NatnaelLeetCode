@@ -46,6 +46,7 @@ LeetCode Solutions Of Natnael
 | ------- |
 | [0048-rotate-image](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0053-maximum-subarray) |
+| [0204-count-primes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -87,6 +88,7 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0204-count-primes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -130,4 +132,12 @@ LeetCode Solutions Of Natnael
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0498-diagonal-traverse) |
 | [3311-ant-on-the-boundary](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3311-ant-on-the-boundary) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
