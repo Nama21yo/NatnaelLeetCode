@@ -29,6 +29,7 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -58,6 +59,7 @@ LeetCode Solutions Of Natnael
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0724-find-pivot-index](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -77,6 +79,7 @@ LeetCode Solutions Of Natnael
 | [0560-subarray-sum-equals-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -100,6 +103,7 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
