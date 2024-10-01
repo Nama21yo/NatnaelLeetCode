@@ -57,6 +57,7 @@ LeetCode Solutions Of Natnael
 | [0042-trapping-rain-water](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0053-maximum-subarray) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0204-count-primes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -132,6 +133,7 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Greedy
 |  |
@@ -146,6 +148,7 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Simulation
 |  |
