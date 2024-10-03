@@ -1,31 +1,18 @@
 class Solution {
     public void duplicateZeros(int[] arr) {
-        int n = arr.length;
-        int possibleDups = 0;
-
-        // Find the number of zeros to be duplicated
-        // and adjust the number of elements accordingly
-        for (int i = 0; i < n - possibleDups; i++) {
-            if (arr[i] == 0) {
-                // Edge case: Check if the zero to be duplicated is the last element
-                if (i == n - 1 - possibleDups) {
-                    // Duplicate the last zero and break, as there's no space left
-                    arr[n - 1] = 0;
-                    n--;
-                    break;
+        int l = 0;
+        int n =  arr.length;
+        while(l < n - 1) {
+            if(arr[l] == 0) {
+                int r = n - 1;
+                while(r >= l + 2) {
+                    arr[r] = arr[r - 1];
+                    r--;
                 }
-                possibleDups++;
-            }
-        }
-
-        // Start from the last element to duplicate zeros
-        for (int i = n - possibleDups - 1; i >= 0; i--) {
-            if (arr[i] == 0) {
-                arr[i + possibleDups] = 0;
-                possibleDups--;
-                arr[i + possibleDups] = 0;
+                arr[l + 1] = 0;
+                l += 2; 
             } else {
-                arr[i + possibleDups] = arr[i];
+                l++;
             }
         }
     }
