@@ -1,19 +1,17 @@
 class Solution {
     public void duplicateZeros(int[] arr) {
-        int l = 0;
-        int n =  arr.length;
-        while(l < n - 1) {
-            if(arr[l] == 0) {
-                int r = n - 1;
-                while(r >= l + 2) {
-                    arr[r] = arr[r - 1];
-                    r--;
-                }
-                arr[l + 1] = 0;
-                l += 2; 
+        // Better Solution using Queue O(n) time and O(n) space
+        Queue<Integer> queue = new LinkedList<>();
+        int n = arr.length;
+        for(int i = 0; i < n; ++i) {
+            if(arr[i] == 0) {
+                queue.add(0);
+                queue.add(0);
             } else {
-                l++;
+                queue.add(arr[i]);
             }
-        }
+            Integer first = queue.poll(); // the first element in the queue
+            arr[i] = first;
+        }   
     }
 }
