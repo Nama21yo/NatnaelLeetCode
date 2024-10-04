@@ -19,6 +19,7 @@ LeetCode Solutions Of Natnael
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [2339-k-divisible-elements-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ LeetCode Solutions Of Natnael
 | [0042-trapping-rain-water](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1168-duplicate-zeros](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1168-duplicate-zeros) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 ## Dynamic Programming
 |  |
@@ -84,6 +86,7 @@ LeetCode Solutions Of Natnael
 | [2102-find-the-middle-index-in-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2339-k-divisible-elements-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2714-left-and-right-sum-differences](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3311-ant-on-the-boundary](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3311-ant-on-the-boundary) |
@@ -150,6 +153,7 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Monotonic Stack
 |  |
 | ------- |
