@@ -30,6 +30,7 @@ LeetCode Solutions Of Natnael
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1923-sentence-similarity-iii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
 |  |
@@ -52,6 +53,7 @@ LeetCode Solutions Of Natnael
 | [0567-permutation-in-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1168-duplicate-zeros](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1168-duplicate-zeros) |
+| [1923-sentence-similarity-iii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 ## Dynamic Programming
@@ -87,6 +89,7 @@ LeetCode Solutions Of Natnael
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1833-find-the-highest-altitude](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1923-sentence-similarity-iii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2102-find-the-middle-index-in-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2339-k-divisible-elements-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
