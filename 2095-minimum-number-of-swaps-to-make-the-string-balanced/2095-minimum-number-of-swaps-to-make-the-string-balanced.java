@@ -1,18 +1,20 @@
 class Solution {
     public int minSwaps(String s) {
-        // count min swap = (Imbalance count + 1) / 2
-        int imbalance_count = 0;
-        int current_count = 0;
-        // [ = -1 , ] = 1
+        Stack<Character> stack = new Stack<>();
+        int misMatched = 0;
         for(char c : s.toCharArray()) {
             if(c == '[') {
-                current_count -= 1;
+                stack.push(c);
             } else {
-                current_count += 1;
-            }
-            imbalance_count = Math.max(imbalance_count, current_count);
-        }
+                if(!stack.isEmpty()) {
 
-        return (imbalance_count + 1) / 2;
+                stack.pop();
+                } else {
+                    misMatched++;
+                }
+            }
+        }
+        return (misMatched + 1 ) / 2;
+
     }
 }
