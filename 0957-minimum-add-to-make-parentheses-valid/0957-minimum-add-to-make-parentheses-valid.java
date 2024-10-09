@@ -4,18 +4,19 @@ class Solution {
         if(s.length() == 0) return 0;
         Stack<Character> open = new Stack<>();
         // wrong answer- "))(("
-        int min_moves = s.length();
+        int imbalance_count = 0;
         for(char c : s.toCharArray()) {
             if(c == '(') {
                 open.push(c);
             } else {
                 if(!open.isEmpty() && open.peek() == '(') {
-                    min_moves -= 2;
                     open.pop();
+                } else {
+                    imbalance_count++;
                 }
             }
         }   
 
-        return min_moves;
+        return imbalance_count + open.size();
     }
 }
