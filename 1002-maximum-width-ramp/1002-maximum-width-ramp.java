@@ -3,22 +3,20 @@ class Solution {
         int n = nums.length;
         Stack<Integer> stack = new Stack<>();
         
-        // Step 1: Build a decreasing stack of indices
-        for (int i = 0; i < n; ++i) {
-            if (stack.isEmpty() || nums[stack.peek()] > nums[i]) {
+        for(int i = 0; i < n; i++) {
+            if(stack.isEmpty() || nums[stack.peek()] > nums[i]) {
                 stack.push(i);
             }
         }
-        
-        int maxWidth = 0;
-        
-        // Step 2: Traverse from the end and find maximum width ramp
-        for (int j = n - 1; j >= 0; --j) {
-            while (!stack.isEmpty() && nums[stack.peek()] <= nums[j]) {
-                maxWidth = Math.max(maxWidth, j - stack.pop());
+
+        int max_width = 0;
+        for(int i = n - 1; i >= 0; i--) {
+            while(!stack.isEmpty() && nums[i] >= nums[stack.peek()]) {
+                max_width = Math.max(max_width, i - stack.peek());
+                stack.pop();
             }
         }
-        
-        return maxWidth;
+
+        return max_width;
     }
 }
