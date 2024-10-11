@@ -16,6 +16,7 @@ LeetCode Solutions Of Natnael
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1256-rank-transform-of-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -93,6 +94,7 @@ LeetCode Solutions Of Natnael
 | [1034-subarrays-with-k-different-integers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1168-duplicate-zeros](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1168-duplicate-zeros) |
+| [1256-rank-transform-of-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -181,6 +183,7 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1256-rank-transform-of-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Monotonic Stack
