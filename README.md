@@ -120,6 +120,7 @@ LeetCode Solutions Of Natnael
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2714-left-and-right-sum-differences](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3311-ant-on-the-boundary](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -192,6 +193,7 @@ LeetCode Solutions Of Natnael
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -251,4 +253,5 @@ LeetCode Solutions Of Natnael
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
