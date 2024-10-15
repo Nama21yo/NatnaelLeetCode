@@ -64,6 +64,7 @@ LeetCode Solutions Of Natnael
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1168-duplicate-zeros](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1168-duplicate-zeros) |
@@ -91,6 +92,7 @@ LeetCode Solutions Of Natnael
 | [0204-count-primes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0498-diagonal-traverse](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0560-subarray-sum-equals-k) |
