@@ -1,19 +1,25 @@
 class Solution {
    public int firstMissingPositive(int[] nums) {
+        // O(3n) and O(1) 
         if(nums.length==0) return 1;
         int lastPositiveindex = partition(nums);
         
         for(int i=0;i<lastPositiveindex;i++){
-            int k=Math.abs(nums[i]);
-            if(k<=lastPositiveindex)
-                nums[k-1]=(nums[k-1]<0)?nums[k-1]:-nums[k-1];
+            int k = Math.abs(nums[i]);
+            if(1 <= k && k <= lastPositiveindex) {
+                if(nums[k - 1] > 0) {
+                    nums[k - 1] = -nums[k - 1];
+                }
+            }
+            // if(k <= lastPositiveindex)
+            //     nums[k-1]=(nums[k-1]<0)?nums[k-1]:-nums[k-1];
         }
-        for(int i=0;i<lastPositiveindex;i++){
-            if(nums[i]>0){
-                return i+1;
+        for(int i= 1;i < lastPositiveindex + 1;i++){
+            if(nums[i - 1] >= 0){
+                return i;
             }
         }
-        return lastPositiveindex+1;
+        return lastPositiveindex + 1;
     }
 
     private int partition(int[] nums) {
