@@ -1,19 +1,20 @@
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
-        # Dutch National Flag Algorithm
-        low = 0
-        mid = 0
-        high = len(nums) - 1
-        
-        while(mid <= high):
-            if(nums[mid] == 0):
-                nums[low],nums[mid] = nums[mid],nums[low]
-                low = low + 1
-                mid = mid + 1
-            elif(nums[mid] == 1):
-                mid = mid + 1
-            else:
-                nums[high],nums[mid] = nums[mid],nums[high]
-                high = high - 1
-        
+       l = 0
+       r = len(nums) - 1
+       i = 0 # will iterate through each
+       
+       def swap(i, j):
+            temp = nums[i]
+            nums[i] = nums[j]
+            nums[j] = temp
+       while i <= r:
+        if nums[i] == 0:
+            swap(l, i)
+            l += 1
+        elif nums[i] == 2:
+            swap(i , r)
+            r -= 1
+            i -= 1
+        i += 1
         
