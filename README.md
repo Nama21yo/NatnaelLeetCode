@@ -127,6 +127,7 @@ LeetCode Solutions Of Natnael
 | [1923-sentence-similarity-iii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2102-find-the-middle-index-in-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2339-k-divisible-elements-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -241,6 +242,7 @@ LeetCode Solutions Of Natnael
 | ------- |
 | [0204-count-primes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1656-count-good-triplets) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2339-k-divisible-elements-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 ## Number Theory
 |  |
@@ -280,4 +282,12 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
