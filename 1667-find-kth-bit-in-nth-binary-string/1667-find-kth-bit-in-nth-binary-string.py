@@ -1,19 +1,18 @@
 class Solution:
     def findKthBit(self, n: int, k: int) -> str:
         length = 2 ** n - 1
-
-        def helper(length, k):
-            # base case
-            if length == 1:
-                return "0"
-
+        invert = False
+        while length > 1:
             half = length // 2
-            if k <= half: # left side
-                return helper(half, k)
-            elif k > half + 1: # right side
-                res = helper(half, (length - k) + 1)
-                return "0" if res == "1" else "1"
-            else: # the middle
-                return "1"
-        return helper(length, k)
+
+            if k <= half:
+                length = half
+            elif k > half + 1:
+                k = (length - k) + 1
+                length = half
+                invert = not invert
+            else:
+                return "1" if not invert else "0"
+        
+        return "0" if not invert else "1"
         
