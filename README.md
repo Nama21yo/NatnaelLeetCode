@@ -36,6 +36,7 @@ LeetCode Solutions Of Natnael
 | [0151-reverse-words-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0812-rotate-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1304-longest-happy-string) |
@@ -257,6 +258,7 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0812-rotate-string) |
 ## Trie
 |  |
 | ------- |
