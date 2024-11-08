@@ -45,6 +45,7 @@ LeetCode Solutions Of Natnael
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1880-largest-merge-of-two-strings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -80,6 +81,7 @@ LeetCode Solutions Of Natnael
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0941-sort-array-by-parity](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0941-sort-array-by-parity) |
 | [1168-duplicate-zeros](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1168-duplicate-zeros) |
+| [1880-largest-merge-of-two-strings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -222,6 +224,7 @@ LeetCode Solutions Of Natnael
 | [0670-maximum-swap](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1304-longest-happy-string) |
+| [1880-largest-merge-of-two-strings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
