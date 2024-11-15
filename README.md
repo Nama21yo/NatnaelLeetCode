@@ -82,6 +82,7 @@ LeetCode Solutions Of Natnael
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0941-sort-array-by-parity](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0941-sort-array-by-parity) |
 | [1168-duplicate-zeros](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1168-duplicate-zeros) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1880-largest-merge-of-two-strings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -132,6 +133,7 @@ LeetCode Solutions Of Natnael
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1656-count-good-triplets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1656-count-good-triplets) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -196,6 +198,7 @@ LeetCode Solutions Of Natnael
 | [0240-search-a-2d-matrix-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0907-koko-eating-bananas](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2716-prime-subtraction-operation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -224,6 +227,7 @@ LeetCode Solutions Of Natnael
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1197-parsing-a-boolean-expression) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
@@ -262,6 +266,7 @@ LeetCode Solutions Of Natnael
 | [0084-largest-rectangle-in-histogram](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1002-maximum-width-ramp](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Simulation
 |  |
 | ------- |
