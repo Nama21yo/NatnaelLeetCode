@@ -18,6 +18,7 @@ LeetCode Solutions Of Natnael
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -130,6 +131,7 @@ LeetCode Solutions Of Natnael
 | [1002-maximum-width-ramp](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1002-maximum-width-ramp) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1168-duplicate-zeros](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1168-duplicate-zeros) |
 | [1256-rank-transform-of-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -221,6 +223,7 @@ LeetCode Solutions Of Natnael
 | [0048-rotate-image](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0498-diagonal-traverse) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Design
 |  |
