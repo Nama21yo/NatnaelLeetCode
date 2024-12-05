@@ -209,6 +209,7 @@ LeetCode Solutions Of Natnael
 | [0070-climbing-stairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0292-nim-game) |
 | [0670-maximum-swap](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -392,4 +393,12 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0322-coin-change) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
