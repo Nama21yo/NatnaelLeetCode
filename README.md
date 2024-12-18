@@ -35,6 +35,7 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0567-permutation-in-string) |
@@ -253,6 +254,7 @@ LeetCode Solutions Of Natnael
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
