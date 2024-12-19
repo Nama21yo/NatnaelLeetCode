@@ -123,6 +123,7 @@ LeetCode Solutions Of Natnael
 | [0075-sort-colors](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0238-product-of-array-except-self) |
@@ -213,6 +214,7 @@ LeetCode Solutions Of Natnael
 | ------- |
 | [0048-rotate-image](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0292-nim-game) |
@@ -259,6 +261,7 @@ LeetCode Solutions Of Natnael
 | [0042-trapping-rain-water](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0886-score-of-parentheses](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
