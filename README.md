@@ -41,6 +41,7 @@ LeetCode Solutions Of Natnael
 | [0151-reverse-words-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0649-dota2-senate](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0649-dota2-senate) |
 | [0812-rotate-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0812-rotate-string) |
 | [0886-score-of-parentheses](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -277,6 +278,7 @@ LeetCode Solutions Of Natnael
 | [0011-container-with-most-water](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0011-container-with-most-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0649-dota2-senate](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0670-maximum-swap) |
 | [0917-boats-to-save-people](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -395,6 +397,7 @@ LeetCode Solutions Of Natnael
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0649-dota2-senate) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Geometry
