@@ -1,20 +1,21 @@
-from collections import deque  
+from collections import deque
+# q = deque()
+# q.append('a') >> enqueue >> Insert in the last
+# print(q.popleft()) >> dequeue >> Remove from the first
+
 
 class Solution:  
     def deckRevealedIncreasing(self, deck: list[int]) -> list[int]:    
-        deck.sort()  
-        n = len(deck)  
-         
-        q = deque(range(n))  
-        ans = [0] * n  
-        
-        i = 0  
-        while q:  
-            k = q.popleft()  
-            ans[k] = deck[i]  
-            i += 1  
+        deck.sort()
+        n = len(deck)
+        queue = deque(range(n)) # for keeping the indexes
 
-            if q:  
-                q.append(q.popleft())  
-                
+        ans = [0] * n
+
+        for card in deck:
+            ans[queue.popleft()] = card
+            # if my queue isn't empty
+            if queue:
+                queue.append(queue.popleft())
         return ans
+        
