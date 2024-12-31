@@ -1,18 +1,13 @@
-class Solution(object):
-    def largestNumber(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: str
-        """
-        for i,n in enumerate(nums):
+class Solution:
+    def largestNumber(self, nums: List[int]) -> str:
+        for i, n in enumerate(nums):
             nums[i] = str(n)
         
-        def compare(n1,n2):
-            if n1 + n2 > n2 + n1:
+        def compare(a, b):
+            if a + b > b + a:
                 return -1
-            else:
-                return 1
+            return 1
+        nums = sorted(nums, key = cmp_to_key(compare))
+
+        return str(int("".join(nums))) # consider for 0
         
-        nums = sorted(nums, key= cmp_to_key(compare))
-        
-        return str(int("".join(nums)))
