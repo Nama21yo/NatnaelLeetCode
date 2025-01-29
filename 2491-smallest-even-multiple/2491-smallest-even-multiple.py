@@ -1,9 +1,11 @@
-class Solution:
-    def smallestEvenMultiple(self, n: int) -> int:
-        i = 1
-        while i:
-            if i % 2 == 0 and i % n == 0:
-                return i
-            i += 1
-        return -1 
+class Solution(object):
+    def smallestEvenMultiple(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
+        if n % 2 == 0:
+            return n
+        else:
+            return n * 2
         
