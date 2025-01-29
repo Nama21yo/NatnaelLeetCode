@@ -217,6 +217,7 @@ LeetCode Solutions Of Natnael
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
