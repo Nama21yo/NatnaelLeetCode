@@ -237,6 +237,7 @@ LeetCode Solutions Of Natnael
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2491-smallest-even-multiple](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2556-convert-the-temperature) |
+| [2645-pass-the-pillow](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
@@ -342,6 +343,7 @@ LeetCode Solutions Of Natnael
 | [2195-time-needed-to-buy-tickets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2645-pass-the-pillow](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3311-ant-on-the-boundary](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Enumeration
