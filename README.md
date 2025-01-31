@@ -197,6 +197,7 @@ LeetCode Solutions Of Natnael
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3651-transformed-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3651-transformed-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -348,6 +349,7 @@ LeetCode Solutions Of Natnael
 | [2645-pass-the-pillow](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3311-ant-on-the-boundary](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3311-ant-on-the-boundary) |
+| [3651-transformed-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3651-transformed-array) |
 ## Enumeration
 |  |
 | ------- |
