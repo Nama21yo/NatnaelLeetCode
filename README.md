@@ -56,6 +56,7 @@ LeetCode Solutions Of Natnael
 | [1797-goal-parser-interpretation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1880-largest-merge-of-two-strings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1923-sentence-similarity-iii) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -339,6 +340,7 @@ LeetCode Solutions Of Natnael
 | [0498-diagonal-traverse](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0498-diagonal-traverse) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
