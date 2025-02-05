@@ -52,6 +52,7 @@ LeetCode Solutions Of Natnael
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0649-dota2-senate](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0649-dota2-senate) |
+| [0722-remove-comments](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0722-remove-comments) |
 | [0812-rotate-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0812-rotate-string) |
 | [0858-masking-personal-information](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0858-masking-personal-information) |
 | [0886-score-of-parentheses](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0886-score-of-parentheses) |
@@ -158,6 +159,7 @@ LeetCode Solutions Of Natnael
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0722-remove-comments](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0724-find-pivot-index) |
 | [0907-koko-eating-bananas](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0917-boats-to-save-people) |
