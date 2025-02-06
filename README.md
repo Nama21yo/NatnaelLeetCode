@@ -36,6 +36,7 @@ LeetCode Solutions Of Natnael
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2339-k-divisible-elements-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -211,6 +212,7 @@ LeetCode Solutions Of Natnael
 | [2339-k-divisible-elements-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -425,6 +427,7 @@ LeetCode Solutions Of Natnael
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Heap (Priority Queue)
 |  |
