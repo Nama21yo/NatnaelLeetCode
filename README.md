@@ -30,6 +30,7 @@ LeetCode Solutions Of Natnael
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -70,6 +71,7 @@ LeetCode Solutions Of Natnael
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1651-shuffle-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1651-shuffle-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1880-largest-merge-of-two-strings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1923-sentence-similarity-iii) |
@@ -197,6 +199,7 @@ LeetCode Solutions Of Natnael
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1755-defuse-the-bomb) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1833-find-the-highest-altitude](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -434,6 +437,7 @@ LeetCode Solutions Of Natnael
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -461,6 +465,7 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0136-single-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
