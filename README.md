@@ -195,6 +195,7 @@ LeetCode Solutions Of Natnael
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1168-duplicate-zeros](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1168-duplicate-zeros) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1364-tuple-with-same-product) |
