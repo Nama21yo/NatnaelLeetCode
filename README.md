@@ -184,6 +184,7 @@ LeetCode Solutions Of Natnael
 | [0987-reveal-cards-in-increasing-order](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1002-maximum-width-ramp](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -394,6 +395,7 @@ LeetCode Solutions Of Natnael
 | [0861-flipping-an-image](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1449-print-words-vertically](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1449-print-words-vertically) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
