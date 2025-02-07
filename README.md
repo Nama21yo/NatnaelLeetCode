@@ -11,6 +11,7 @@ LeetCode Solutions Of Natnael
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -46,6 +47,7 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -267,6 +269,7 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0070-climbing-stairs) |
