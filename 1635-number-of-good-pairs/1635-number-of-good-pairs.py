@@ -1,11 +1,15 @@
 class Solution:
     def numIdenticalPairs(self, nums: List[int]) -> int:
-        count = 0
+        # Optimized to O(n) TC
+        pairs = defaultdict(int)
         n = len(nums)
+        count = 0
         for i in range(n):
-            for  j in range(i + 1, n):
-                if nums[i] == nums[j]:
-                    count += 1
+            pairs[nums[i]] += 1
+        
+        for key, value in pairs.items():
+            if value >= 2:
+                count += (value) * (value - 1) // 2
         
         return count
         
