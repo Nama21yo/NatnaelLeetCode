@@ -181,6 +181,7 @@ LeetCode Solutions Of Natnael
 | [0628-maximum-product-of-three-numbers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0661-image-smoother](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0661-image-smoother) |
+| [0665-non-decreasing-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0665-non-decreasing-array) |
 | [0722-remove-comments](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0724-find-pivot-index) |
 | [0861-flipping-an-image](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0861-flipping-an-image) |
