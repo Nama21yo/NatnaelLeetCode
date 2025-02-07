@@ -1,9 +1,7 @@
 class Solution:
     def imageSmoother(self, img: List[List[int]]) -> List[List[int]]:
         n,m  = len(img), len(img[0])
-
-        ans = [[0]*m for _ in range(n)]
-
+        # Using Bit Manipulation
         for r in range(n):
             for c in range(m):
                 # r-1 -> r + 1
@@ -14,11 +12,15 @@ class Solution:
                     for j in range(c - 1 , c + 2):
                         if i < 0 or i == n or j < 0 or j == m:
                             continue
-                        total_sum += img[i][j]
+                        total_sum += img[i][j] % 256
                         count += 1
                 
-                ans[r][c] = total_sum // count
-
-        return ans 
+                img[r][c] = img[r][c] ^ (total_sum // count) << 8
+        
+        for r in range(n):
+            for c in range(m):
+                img[r][c] = img[r][c] >> 8
+        
+        return img 
 
         
