@@ -198,6 +198,7 @@ LeetCode Solutions Of Natnael
 | [0898-transpose-matrix](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0917-boats-to-save-people) |
+| [0919-projection-area-of-3d-shapes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0940-fruit-into-baskets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0948-sort-an-array) |
@@ -313,6 +314,7 @@ LeetCode Solutions Of Natnael
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0670-maximum-swap) |
+| [0919-projection-area-of-3d-shapes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [1014-k-closest-points-to-origin](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -358,6 +360,7 @@ LeetCode Solutions Of Natnael
 | [0661-image-smoother](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0661-image-smoother) |
 | [0861-flipping-an-image](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0898-transpose-matrix) |
+| [0919-projection-area-of-3d-shapes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1972-rotating-the-box) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -556,6 +559,7 @@ LeetCode Solutions Of Natnael
 ## Geometry
 |  |
 | ------- |
+| [0919-projection-area-of-3d-shapes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [1014-k-closest-points-to-origin](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Memoization
 |  |
