@@ -169,6 +169,7 @@ LeetCode Solutions Of Natnael
 | [0048-rotate-image](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -423,6 +424,7 @@ LeetCode Solutions Of Natnael
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0215-kth-largest-element-in-an-array) |
