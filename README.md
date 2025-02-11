@@ -34,6 +34,7 @@ LeetCode Solutions Of Natnael
 | [1364-tuple-with-same-product](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -225,6 +226,7 @@ LeetCode Solutions Of Natnael
 | [1364-tuple-with-same-product](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1449-print-words-vertically](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1449-print-words-vertically) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -434,6 +436,7 @@ LeetCode Solutions Of Natnael
 | [1256-rank-transform-of-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1961-maximum-ice-cream-bars](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1970-sorting-the-sentence](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1970-sorting-the-sentence) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -513,6 +516,7 @@ LeetCode Solutions Of Natnael
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1364-tuple-with-same-product) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
