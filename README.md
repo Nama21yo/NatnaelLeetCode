@@ -25,6 +25,7 @@ LeetCode Solutions Of Natnael
 | [0940-fruit-into-baskets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [0991-array-of-doubled-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -212,6 +213,7 @@ LeetCode Solutions Of Natnael
 | [0952-word-subsets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [0991-array-of-doubled-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [1002-maximum-width-ramp](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1002-maximum-width-ramp) |
 | [1009-pancake-sorting](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1009-pancake-sorting) |
 | [1014-k-closest-points-to-origin](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -410,6 +412,7 @@ LeetCode Solutions Of Natnael
 | [0670-maximum-swap](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0670-maximum-swap) |
 | [0917-boats-to-save-people](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0991-array-of-doubled-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [1009-pancake-sorting](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1304-longest-happy-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1304-longest-happy-string) |
@@ -439,6 +442,7 @@ LeetCode Solutions Of Natnael
 | [0941-sort-array-by-parity](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [0991-array-of-doubled-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [1009-pancake-sorting](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1009-pancake-sorting) |
 | [1014-k-closest-points-to-origin](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1018-largest-perimeter-triangle) |
