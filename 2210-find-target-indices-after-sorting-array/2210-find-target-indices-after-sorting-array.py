@@ -1,47 +1,15 @@
 class Solution:
-    def first_occ_binary_search(self, nums, target):
-        first = -1
-        l = 0
-        n = len(nums)
-        r = n - 1
-
-        while l <= r:
-            mid = l + (r - l) // 2
-            if nums[mid] == target:
-                first = mid
-                r = mid - 1
-            elif nums[mid] > target:
-                r = mid - 1
-            else:
-                l = mid + 1
-        return first
-    
-    def last_occ_binary_search(self, nums,target):
-        last = -1
-        l = 0
-        n = len(nums)
-        r = n - 1
-
-        while l <= r:
-            mid = l + (r - l) // 2
-            if nums[mid] == target:
-                last = mid
-                l = mid + 1
-            elif nums[mid] > target:
-                r = mid - 1
-            else:
-                l = mid + 1
-        return last
     def targetIndices(self, nums: List[int], target: int) -> List[int]:
-        nums.sort()
+        smaller_el = 0
+        larger_el = 0
+        n = len(nums)
 
-        first_occ = self.first_occ_binary_search(nums, target)
-        if first_occ == -1:
-            return []
-        last_occ = self.last_occ_binary_search(nums, target)
-        if last_occ == -1:
-            return []
-        
-        return list(range(first_occ, last_occ + 1))
+        for num in nums:
+            if num < target:
+                smaller_el += 1
+            elif num > target:
+                larger_el += 1
+
+        return list(range(smaller_el, n - larger_el))
 
         
