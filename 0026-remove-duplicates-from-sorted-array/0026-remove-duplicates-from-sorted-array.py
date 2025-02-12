@@ -1,13 +1,9 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        # using two pointers
-        
-        j = 0
-        
-        for i in range(1, len(nums)):
-            if(nums[i] != nums[j]):
-                j = j + 1
-                nums[j] = nums[i]
-        
-        return (j+1)
-        
+        n = len(nums)
+        l = 0  
+        for r in range(1, n):
+            if nums[l] != nums[r]:
+                l += 1
+                nums[l], nums[r] = nums[r], nums[l]
+        return l + 1
