@@ -1,20 +1,19 @@
 class Solution:
     def maxArea(self, height: List[int]) -> int:
+        # . All pairs of the n lines define a rectangle with a height given by the 
+        # shorter line and a width given by the distance between the lines. Return 
+        # the area of the rectangle with the largest area
+
+        l = 0
+        r = len(height) - 1
         max_area = 0
-        left = 0
-        right = len(height) - 1  # Initialize the right pointer at the end
-
-        # Move pointers towards each other
-        while left < right:
-            # Calculate the current area using the shorter height
-            current_area = (right - left) * min(height[left], height[right])
-            # Update the maximum area found so far
+        while l <= r:
+            # length -> min of the two
+            # width -> there difference
+            current_area = (r - l) * min(height[l], height[r])
             max_area = max(max_area, current_area)
-
-            # Move the pointer corresponding to the shorter line
-            if height[left] <= height[right]:
-                left += 1
+            if height[l] <= height[r]:
+                l += 1
             else:
-                right -= 1
-        
+                r -= 1
         return max_area
