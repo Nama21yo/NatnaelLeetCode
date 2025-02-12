@@ -266,6 +266,7 @@ LeetCode Solutions Of Natnael
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -424,6 +425,7 @@ LeetCode Solutions Of Natnael
 | [1961-maximum-ice-cream-bars](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2716-prime-subtraction-operation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -460,6 +462,7 @@ LeetCode Solutions Of Natnael
 | [1970-sorting-the-sentence](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1970-sorting-the-sentence) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -620,6 +623,7 @@ LeetCode Solutions Of Natnael
 | [0948-sort-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1217-relative-sort-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1961-maximum-ice-cream-bars) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Bucket Sort
 |  |
 | ------- |
