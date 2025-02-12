@@ -130,6 +130,7 @@ LeetCode Solutions Of Natnael
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0567-permutation-in-string) |
@@ -174,6 +175,7 @@ LeetCode Solutions Of Natnael
 | [0066-plus-one](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0179-largest-number) |
@@ -429,6 +431,7 @@ LeetCode Solutions Of Natnael
 | ------- |
 | [0056-merge-intervals](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0217-contains-duplicate) |
