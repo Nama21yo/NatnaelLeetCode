@@ -73,6 +73,7 @@ LeetCode Solutions Of Natnael
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0649-dota2-senate](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0649-dota2-senate) |
+| [0680-valid-palindrome-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0722-remove-comments](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0722-remove-comments) |
 | [0768-partition-labels](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0812-rotate-string) |
@@ -144,6 +145,7 @@ LeetCode Solutions Of Natnael
 | [0567-permutation-in-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0633-sum-of-square-numbers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0680-valid-palindrome-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0861-flipping-an-image) |
 | [0917-boats-to-save-people](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0917-boats-to-save-people) |
@@ -432,6 +434,7 @@ LeetCode Solutions Of Natnael
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0670-maximum-swap) |
+| [0680-valid-palindrome-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
