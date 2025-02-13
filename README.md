@@ -293,6 +293,7 @@ LeetCode Solutions Of Natnael
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2714-left-and-right-sum-differences](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2716-prime-subtraction-operation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -397,6 +398,7 @@ LeetCode Solutions Of Natnael
 | [1972-rotating-the-box](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1972-rotating-the-box) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Design
 |  |
 | ------- |
@@ -482,6 +484,7 @@ LeetCode Solutions Of Natnael
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Monotonic Stack
