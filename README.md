@@ -36,6 +36,7 @@ LeetCode Solutions Of Natnael
 | [1364-tuple-with-same-product](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1635-number-of-good-pairs) |
@@ -252,6 +253,7 @@ LeetCode Solutions Of Natnael
 | [1364-tuple-with-same-product](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1449-print-words-vertically](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1449-print-words-vertically) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -446,6 +448,7 @@ LeetCode Solutions Of Natnael
 | [1009-pancake-sorting](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1304-longest-happy-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1304-longest-happy-string) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1880-largest-merge-of-two-strings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [1961-maximum-ice-cream-bars](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -486,6 +489,7 @@ LeetCode Solutions Of Natnael
 | [1256-rank-transform-of-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1752-arithmetic-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -590,6 +594,7 @@ LeetCode Solutions Of Natnael
 | [0948-sort-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1304-longest-happy-string) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
