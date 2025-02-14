@@ -14,6 +14,7 @@ LeetCode Solutions Of Natnael
 | [0012-integer-to-roman](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -66,6 +67,7 @@ LeetCode Solutions Of Natnael
 | [0020-valid-parentheses](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0179-largest-number) |
@@ -115,6 +117,7 @@ LeetCode Solutions Of Natnael
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0940-fruit-into-baskets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0940-fruit-into-baskets) |
