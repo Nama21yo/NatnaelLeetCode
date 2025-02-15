@@ -257,6 +257,7 @@ LeetCode Solutions Of Natnael
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -368,6 +369,7 @@ LeetCode Solutions Of Natnael
 | [0919-projection-area-of-3d-shapes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [1014-k-closest-points-to-origin](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -648,6 +650,7 @@ LeetCode Solutions Of Natnael
 | ------- |
 | [0919-projection-area-of-3d-shapes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [1014-k-closest-points-to-origin](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Memoization
 |  |
 | ------- |
