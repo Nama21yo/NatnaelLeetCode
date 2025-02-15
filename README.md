@@ -189,6 +189,7 @@ LeetCode Solutions Of Natnael
 | [0016-3sum-closest](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0042-trapping-rain-water) |
@@ -386,6 +387,7 @@ LeetCode Solutions Of Natnael
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0633-sum-of-square-numbers) |
