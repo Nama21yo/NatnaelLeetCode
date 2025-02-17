@@ -1,18 +1,13 @@
 class Solution:
-    def subarraySum(self, nums, k):
-        pre_sum_map = defaultdict(int)
-        
+    def subarraySum(self, nums: List[int], k: int) -> int:
+        prefixSumCount = {0 : 1}
+        prefixSum = 0
         count = 0
-        sum = 0
-        pre_sum_map[0] = 1
-        
         for num in nums:
-            sum += num
+            prefixSum += num
             
-            rem = sum - k
-            if rem in pre_sum_map:
-                count += pre_sum_map[rem]
+            count += prefixSumCount.get(prefixSum - k, 0)
             
-            pre_sum_map[sum] += 1
+            prefixSumCount[prefixSum] = 1 + prefixSumCount.get(prefixSum,0)
         
         return count
