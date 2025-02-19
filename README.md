@@ -143,6 +143,7 @@ LeetCode Solutions Of Natnael
 | [0011-container-with-most-water](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -712,5 +713,6 @@ LeetCode Solutions Of Natnael
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
