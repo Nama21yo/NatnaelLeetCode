@@ -650,6 +650,7 @@ LeetCode Solutions Of Natnael
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0203-remove-linked-list-elements) |
 | [1197-parsing-a-boolean-expression](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2050-count-good-numbers) |
@@ -708,4 +709,8 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1028-interval-list-intersections) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
