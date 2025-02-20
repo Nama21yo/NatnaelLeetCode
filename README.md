@@ -149,6 +149,7 @@ LeetCode Solutions Of Natnael
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0283-move-zeroes) |
@@ -721,6 +722,7 @@ LeetCode Solutions Of Natnael
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0086-partition-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0086-partition-list) |
 | [0203-remove-linked-list-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0838-design-linked-list) |
