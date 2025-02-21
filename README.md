@@ -15,6 +15,7 @@ LeetCode Solutions Of Natnael
 | [0036-valid-sudoku](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -445,6 +446,7 @@ LeetCode Solutions Of Natnael
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0838-design-linked-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0838-design-linked-list) |
@@ -726,6 +728,7 @@ LeetCode Solutions Of Natnael
 | [0021-merge-two-sorted-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0086-partition-list) |
+| [0146-lru-cache](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0838-design-linked-list) |
@@ -733,4 +736,8 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
