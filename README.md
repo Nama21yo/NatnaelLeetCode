@@ -299,6 +299,7 @@ LeetCode Solutions Of Natnael
 | [1940-maximum-xor-for-each-query](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1961-maximum-ice-cream-bars](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1972-rotating-the-box](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1972-rotating-the-box) |
+| [1983-maximum-population-year](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1983-maximum-population-year) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -360,6 +361,7 @@ LeetCode Solutions Of Natnael
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1833-find-the-highest-altitude](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [1983-maximum-population-year](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1983-maximum-population-year) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2102-find-the-middle-index-in-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2465-shifting-letters-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2465-shifting-letters-ii) |
@@ -619,6 +621,7 @@ LeetCode Solutions Of Natnael
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1983-maximum-population-year](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1983-maximum-population-year) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
