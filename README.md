@@ -33,6 +33,7 @@ LeetCode Solutions Of Natnael
 | [1016-subarray-sums-divisible-by-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1217-relative-sort-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -263,6 +264,7 @@ LeetCode Solutions Of Natnael
 | [1046-max-consecutive-ones-iii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1137-height-checker) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1168-duplicate-zeros](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1217-relative-sort-array) |
@@ -354,6 +356,7 @@ LeetCode Solutions Of Natnael
 | [0966-binary-subarrays-with-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -446,6 +449,7 @@ LeetCode Solutions Of Natnael
 | [0861-flipping-an-image](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0919-projection-area-of-3d-shapes) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1972-rotating-the-box) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
