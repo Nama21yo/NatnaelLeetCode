@@ -190,6 +190,7 @@ LeetCode Solutions Of Natnael
 | [0070-climbing-stairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0518-coin-change-ii) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Array
 |  |
@@ -298,6 +299,7 @@ LeetCode Solutions Of Natnael
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1940-maximum-xor-for-each-query) |
