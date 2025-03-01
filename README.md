@@ -19,6 +19,7 @@ LeetCode Solutions Of Natnael
 | [0217-contains-duplicate](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0567-permutation-in-string) |
@@ -228,6 +229,7 @@ LeetCode Solutions Of Natnael
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0525-contiguous-array) |
@@ -472,6 +474,7 @@ LeetCode Solutions Of Natnael
 | [0071-simplify-path](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0496-next-greater-element-i](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0886-score-of-parentheses](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -566,6 +569,7 @@ LeetCode Solutions Of Natnael
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1002-maximum-width-ramp](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
