@@ -761,6 +761,7 @@ LeetCode Solutions Of Natnael
 | [0146-lru-cache](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0838-design-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
