@@ -754,6 +754,7 @@ LeetCode Solutions Of Natnael
 | [0025-reverse-nodes-in-k-group](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0237-delete-node-in-a-linked-list) |
