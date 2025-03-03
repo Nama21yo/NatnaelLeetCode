@@ -15,6 +15,7 @@ LeetCode Solutions Of Natnael
 | [0036-valid-sudoku](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -217,6 +218,7 @@ LeetCode Solutions Of Natnael
 | [0084-largest-rectangle-in-histogram](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0179-largest-number) |
@@ -781,4 +783,8 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0146-lru-cache) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
