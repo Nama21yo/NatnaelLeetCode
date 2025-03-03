@@ -14,6 +14,7 @@ LeetCode Solutions Of Natnael
 | [0012-integer-to-roman](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0146-lru-cache) |
@@ -213,6 +214,7 @@ LeetCode Solutions Of Natnael
 | [0054-spiral-matrix](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0078-subsets) |
@@ -455,6 +457,7 @@ LeetCode Solutions Of Natnael
 | [0036-valid-sudoku](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
