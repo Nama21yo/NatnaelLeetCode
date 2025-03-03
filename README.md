@@ -257,6 +257,7 @@ LeetCode Solutions Of Natnael
 | [0722-remove-comments](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0724-find-pivot-index) |
 | [0861-flipping-an-image](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0861-flipping-an-image) |
+| [0890-lemonade-change](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0917-boats-to-save-people) |
@@ -516,6 +517,7 @@ LeetCode Solutions Of Natnael
 | [0670-maximum-swap](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0768-partition-labels) |
+| [0890-lemonade-change](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0991-array-of-doubled-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0991-array-of-doubled-pairs) |
