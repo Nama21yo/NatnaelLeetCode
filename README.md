@@ -97,6 +97,7 @@ LeetCode Solutions Of Natnael
 | [1197-parsing-a-boolean-expression](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1304-longest-happy-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1449-print-words-vertically](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1449-print-words-vertically) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -525,6 +526,7 @@ LeetCode Solutions Of Natnael
 | [1018-largest-perimeter-triangle](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1095-two-city-scheduling) |
 | [1304-longest-happy-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1304-longest-happy-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1880-largest-merge-of-two-strings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1880-largest-merge-of-two-strings) |
@@ -661,6 +663,7 @@ LeetCode Solutions Of Natnael
 | [0451-sort-characters-by-frequency](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1364-tuple-with-same-product) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
