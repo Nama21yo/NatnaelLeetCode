@@ -213,6 +213,7 @@ LeetCode Solutions Of Natnael
 | [0056-merge-intervals](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0136-single-number) |
@@ -674,10 +675,12 @@ LeetCode Solutions Of Natnael
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0078-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0136-single-number) |
 | [0861-flipping-an-image](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0861-flipping-an-image) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
