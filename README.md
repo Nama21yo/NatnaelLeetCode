@@ -197,6 +197,7 @@ LeetCode Solutions Of Natnael
 | [0070-climbing-stairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0518-coin-change-ii) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Array
@@ -268,6 +269,7 @@ LeetCode Solutions Of Natnael
 | [0941-sort-array-by-parity](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0952-word-subsets) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0991-array-of-doubled-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0991-array-of-doubled-pairs) |
@@ -457,6 +459,7 @@ LeetCode Solutions Of Natnael
 | [0215-kth-largest-element-in-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Matrix
@@ -733,6 +736,7 @@ LeetCode Solutions Of Natnael
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0649-dota2-senate) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Geometry
@@ -818,4 +822,8 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1582-design-browser-history) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
