@@ -238,6 +238,7 @@ LeetCode Solutions Of Natnael
 | [0303-range-sum-query-immutable](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0322-coin-change) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0485-max-consecutive-ones) |
@@ -513,6 +514,7 @@ LeetCode Solutions Of Natnael
 | [0011-container-with-most-water](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0179-largest-number) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0649-dota2-senate) |
@@ -557,6 +559,7 @@ LeetCode Solutions Of Natnael
 | [0217-contains-duplicate](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0628-maximum-product-of-three-numbers) |
