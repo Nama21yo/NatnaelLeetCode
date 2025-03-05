@@ -117,6 +117,7 @@ LeetCode Solutions Of Natnael
 | [2325-number-of-ways-to-select-buildings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2465-shifting-letters-ii) |
+| [2470-removing-stars-from-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2580-circular-sentence) |
@@ -510,6 +511,7 @@ LeetCode Solutions Of Natnael
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
@@ -628,6 +630,7 @@ LeetCode Solutions Of Natnael
 | [2195-time-needed-to-buy-tickets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2470-removing-stars-from-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
