@@ -65,6 +65,7 @@ LeetCode Solutions Of Natnael
 | [2502-sort-the-people](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -492,6 +493,7 @@ LeetCode Solutions Of Natnael
 | [0304-range-sum-query-2d-immutable](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0838-design-linked-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0838-design-linked-list) |
 | [1582-design-browser-history](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1582-design-browser-history) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Stack
 |  |
 | ------- |
@@ -685,6 +687,7 @@ LeetCode Solutions Of Natnael
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Heap (Priority Queue)
 |  |
@@ -742,6 +745,7 @@ LeetCode Solutions Of Natnael
 | [0954-maximum-sum-circular-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Geometry
 |  |
 | ------- |
@@ -825,6 +829,7 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1582-design-browser-history) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
