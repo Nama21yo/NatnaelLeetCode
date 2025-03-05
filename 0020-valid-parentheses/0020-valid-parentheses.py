@@ -1,20 +1,16 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        closeOpen = {")":"(","}":"{","]":"["}
         stack = []
 
+        pair = {")":"(", "]":"[","}":"{"}
+
         for char in s:
-            # If it is Open parenthesis
-            if char not in closeOpen:
-                stack.append(char)
+            if char in pair:
+                if stack and stack[-1] == pair[char]:
+                    stack.pop()
+                else:
+                    stack.append(char)
             else:
-                # my stack is empty
-                if not stack:
-                    return False
-                popped = stack.pop()
-                if popped != closeOpen[char]:
-                    return False
+                stack.append(char)
+        
         return not stack
-        
-        
-        
