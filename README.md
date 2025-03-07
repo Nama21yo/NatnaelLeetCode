@@ -104,6 +104,7 @@ LeetCode Solutions Of Natnael
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1651-shuffle-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1651-shuffle-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1720-crawler-log-folder](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1720-crawler-log-folder) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1797-goal-parser-interpretation) |
@@ -317,6 +318,7 @@ LeetCode Solutions Of Natnael
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1720-crawler-log-folder](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1720-crawler-log-folder) |
 | [1752-arithmetic-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1755-defuse-the-bomb) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -515,6 +517,7 @@ LeetCode Solutions Of Natnael
 | [1197-parsing-a-boolean-expression](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1582-design-browser-history](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1582-design-browser-history) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1720-crawler-log-folder](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1720-crawler-log-folder) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2470-removing-stars-from-a-string) |
