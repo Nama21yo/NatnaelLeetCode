@@ -264,6 +264,7 @@ LeetCode Solutions Of Natnael
 | [0722-remove-comments](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0739-daily-temperatures) |
+| [0859-design-circular-deque](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0859-design-circular-deque) |
 | [0861-flipping-an-image](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0898-transpose-matrix) |
@@ -498,6 +499,7 @@ LeetCode Solutions Of Natnael
 | [0303-range-sum-query-immutable](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0838-design-linked-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0838-design-linked-list) |
+| [0859-design-circular-deque](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0859-design-circular-deque) |
 | [1582-design-browser-history](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1582-design-browser-history) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Stack
@@ -754,6 +756,7 @@ LeetCode Solutions Of Natnael
 | [0232-implement-queue-using-stacks](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0649-dota2-senate) |
+| [0859-design-circular-deque](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0859-design-circular-deque) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -822,6 +825,7 @@ LeetCode Solutions Of Natnael
 | [0237-delete-node-in-a-linked-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0838-design-linked-list) |
+| [0859-design-circular-deque](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0859-design-circular-deque) |
 | [1582-design-browser-history](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1582-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
