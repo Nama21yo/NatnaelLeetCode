@@ -500,6 +500,7 @@ LeetCode Solutions Of Natnael
 | [0304-range-sum-query-2d-immutable](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0838-design-linked-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0859-design-circular-deque) |
+| [0937-online-stock-span](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1582-design-browser-history) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Stack
@@ -516,6 +517,7 @@ LeetCode Solutions Of Natnael
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0739-daily-temperatures) |
 | [0886-score-of-parentheses](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0886-score-of-parentheses) |
+| [0937-online-stock-span](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1197-parsing-a-boolean-expression) |
@@ -625,6 +627,7 @@ LeetCode Solutions Of Natnael
 | [0503-next-greater-element-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Simulation
@@ -845,6 +848,7 @@ LeetCode Solutions Of Natnael
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1582-design-browser-history) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Queue
