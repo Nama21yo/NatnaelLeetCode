@@ -202,6 +202,7 @@ LeetCode Solutions Of Natnael
 | [0085-maximal-rectangle](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0085-maximal-rectangle) |
 | [0322-coin-change](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0518-coin-change-ii) |
+| [0943-sum-of-subarray-minimums](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
@@ -275,6 +276,7 @@ LeetCode Solutions Of Natnael
 | [0919-projection-area-of-3d-shapes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0940-fruit-into-baskets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0941-sort-array-by-parity) |
+| [0943-sum-of-subarray-minimums](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -522,6 +524,7 @@ LeetCode Solutions Of Natnael
 | [0739-daily-temperatures](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0739-daily-temperatures) |
 | [0886-score-of-parentheses](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0886-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0937-online-stock-span) |
+| [0943-sum-of-subarray-minimums](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1197-parsing-a-boolean-expression) |
@@ -633,6 +636,7 @@ LeetCode Solutions Of Natnael
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0937-online-stock-span) |
+| [0943-sum-of-subarray-minimums](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Simulation
