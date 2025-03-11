@@ -426,6 +426,7 @@ LeetCode Solutions Of Natnael
 | [0204-count-primes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -752,6 +753,7 @@ LeetCode Solutions Of Natnael
 | [0078-subsets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0861-flipping-an-image) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1940-maximum-xor-for-each-query) |
@@ -765,6 +767,7 @@ LeetCode Solutions Of Natnael
 | [0021-merge-two-sorted-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0342-power-of-four](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0342-power-of-four) |
 | [1197-parsing-a-boolean-expression](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2050-count-good-numbers) |
