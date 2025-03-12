@@ -767,6 +767,7 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0342-power-of-four) |
@@ -839,6 +840,7 @@ LeetCode Solutions Of Natnael
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0086-partition-list) |
