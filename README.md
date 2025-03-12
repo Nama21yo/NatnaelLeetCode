@@ -200,6 +200,7 @@ LeetCode Solutions Of Natnael
 | [0055-jump-game](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0085-maximal-rectangle) |
+| [0119-pascals-triangle-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0322-coin-change](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0518-coin-change-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -232,6 +233,7 @@ LeetCode Solutions Of Natnael
 | [0085-maximal-rectangle](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0090-subsets-ii) |
+| [0119-pascals-triangle-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
