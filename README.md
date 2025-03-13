@@ -202,6 +202,7 @@ LeetCode Solutions Of Natnael
 | [0085-maximal-rectangle](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0322-coin-change](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0518-coin-change-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -253,6 +254,7 @@ LeetCode Solutions Of Natnael
 | [0456-132-pattern](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0503-next-greater-element-ii) |
@@ -431,6 +433,7 @@ LeetCode Solutions Of Natnael
 | [0342-power-of-four](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0670-maximum-swap) |
@@ -771,6 +774,7 @@ LeetCode Solutions Of Natnael
 | [0025-reverse-nodes-in-k-group](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0486-predict-the-winner) |
 | [1197-parsing-a-boolean-expression](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2050-count-good-numbers) |
@@ -809,6 +813,7 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0486-predict-the-winner) |
 ## Counting Sort
 |  |
 | ------- |
