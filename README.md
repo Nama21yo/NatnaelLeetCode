@@ -874,6 +874,7 @@ LeetCode Solutions Of Natnael
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 ## Doubly-Linked List
@@ -909,6 +910,7 @@ LeetCode Solutions Of Natnael
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -918,5 +920,6 @@ LeetCode Solutions Of Natnael
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
