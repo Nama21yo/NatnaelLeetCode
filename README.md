@@ -806,6 +806,7 @@ LeetCode Solutions Of Natnael
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0322-coin-change) |
@@ -867,6 +868,7 @@ LeetCode Solutions Of Natnael
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -900,6 +902,7 @@ LeetCode Solutions Of Natnael
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -907,6 +910,7 @@ LeetCode Solutions Of Natnael
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0144-binary-tree-preorder-traversal) |
