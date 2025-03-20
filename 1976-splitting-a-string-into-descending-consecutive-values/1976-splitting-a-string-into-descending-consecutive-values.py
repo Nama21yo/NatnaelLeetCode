@@ -8,18 +8,15 @@ class Solution:
                         return False
                 return len(path) >= 2 
 
-            if len(path) > 2:
-                for k in range(1, len(path) - 1):
-                    if path[k - 1] - path[k] != 1:
-                        return False
-
             num = 0
+            # HOW IT BECOME n ^ 2 check it
             for j in range(i, len(s)):
                 num = num * 10 + int(s[j])
-                path.append(num)
+                if not path or num == path[-1] - 1:
+                    path.append(num)
 
-                if backtrack(path, j + 1):
-                    return True
-                path.pop()  # backtrack
+                    if backtrack(path, j + 1):
+                        return True
+                    path.pop()  # backtrack
             return False
         return backtrack([], 0)
