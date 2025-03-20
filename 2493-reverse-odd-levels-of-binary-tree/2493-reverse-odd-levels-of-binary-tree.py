@@ -6,39 +6,36 @@
 #         self.right = right
 class Solution:
     def reverseOddLevels(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
+        level = [root]
+        odd = 0
+        # ans = []
         if not root:
             return []
-        
-        queue = deque()
-        res = []
-        queue.append(root)
-        curr_level = 0
-        while queue:
-            len_q = len(queue)
-            level_arr = []
-            for _ in range(len_q):
-                curr_node = queue.popleft()
-                level_arr.append(curr_node)
-                if curr_node.left:
-                    queue.append(curr_node.left)
-                if curr_node.right:
-                    queue.append(curr_node.right)
-    
-            if curr_level % 2:
-                # reverse as palindrome
+        while level:
+            nextLevel = []
+            vals = []
+            for node in level:
+                if node.left:
+                    nextLevel.append(node.left)
+                if node.right:
+                    nextLevel.append(node.right)
+                vals.append(node)
+            # print(vals) # check this print for visualization
+            # this is the only thing that I added
+            # just as palindrome reverse
+            if odd % 2:
                 l = 0
-                r = len_q - 1
+                r = len(vals) - 1
                 while l < r:
-                    temp = level_arr[l].val
-                    level_arr[l].val =  level_arr[r].val
-                    level_arr[r].val = temp
+                    temp = vals[l].val
+                    vals[l].val = vals[r].val
+                    vals[r].val = temp
                     l += 1
                     r -= 1
-            level_arr = []
-            curr_level += 1
-        
+            odd += 1
+
+            level = nextLevel
+            # ans.append(vals)
         return root
-
-
 
 
