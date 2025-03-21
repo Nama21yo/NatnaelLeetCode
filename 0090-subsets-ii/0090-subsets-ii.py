@@ -1,21 +1,14 @@
 class Solution:
-    # Using Bit Manipulation
-    def filter(self, n, nums):
-        subset = []
-        j = 0
-        while n > 0:
-            last_bit = (n & 1)
-            if last_bit == 1:
-                subset.append(nums[j])
-            j += 1
-            n = n >> 1
-        return subset
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
-        nums.sort() # to ensure that duplicate elements are adjacent
-        n = len(nums)
-        subsets = set()
-        for i in range(1<<n):
-            subset = self.filter(i, nums)
-            subsets.add(tuple(subset))
-        
-        return [list(subset) for subset in subsets]
+        ans = set()
+        nums.sort()
+        def subsequence(nums, i , output):
+            if i == len(nums):
+                ans.add(tuple(output))
+                return
+            output.append(nums[i])
+            subsequence(nums, i + 1, output)
+            output.pop()
+            subsequence(nums, i + 1, output)
+        subsequence(nums, 0, [])
+        return [list(el) for el in ans]
