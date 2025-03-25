@@ -273,6 +273,7 @@ LeetCode Solutions Of Natnael
 | [0722-remove-comments](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0859-design-circular-deque) |
 | [0861-flipping-an-image](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0890-lemonade-change) |
@@ -465,6 +466,7 @@ LeetCode Solutions Of Natnael
 | [0456-132-pattern](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0792-binary-search](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
