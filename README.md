@@ -389,6 +389,7 @@ LeetCode Solutions Of Natnael
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3639-zero-array-transformation-i](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3651-transformed-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3651-transformed-array) |
 ## Prefix Sum
 |  |
@@ -424,6 +425,7 @@ LeetCode Solutions Of Natnael
 | [2714-left-and-right-sum-differences](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3311-ant-on-the-boundary](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3639-zero-array-transformation-i](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Math
 |  |
 | ------- |
@@ -483,6 +485,7 @@ LeetCode Solutions Of Natnael
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2716-prime-subtraction-operation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2716-prime-subtraction-operation) |
+| [3643-zero-array-transformation-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
