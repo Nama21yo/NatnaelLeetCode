@@ -388,6 +388,7 @@ LeetCode Solutions Of Natnael
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3639-zero-array-transformation-i](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3651-transformed-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3651-transformed-array) |
 ## Prefix Sum
 |  |
@@ -422,6 +423,7 @@ LeetCode Solutions Of Natnael
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3311-ant-on-the-boundary](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3311-ant-on-the-boundary) |
+| [3639-zero-array-transformation-i](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Math
 |  |
 | ------- |
