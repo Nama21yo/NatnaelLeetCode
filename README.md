@@ -378,6 +378,7 @@ LeetCode Solutions Of Natnael
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2716-prime-subtraction-operation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -478,6 +479,7 @@ LeetCode Solutions Of Natnael
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2716-prime-subtraction-operation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Divide and Conquer
 |  |
