@@ -54,6 +54,7 @@ LeetCode Solutions Of Natnael
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [1873-longest-nice-substring](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1873-longest-nice-substring) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -108,6 +109,7 @@ LeetCode Solutions Of Natnael
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1797-goal-parser-interpretation) |
+| [1873-longest-nice-substring](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1873-longest-nice-substring) |
 | [1880-largest-merge-of-two-strings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1970-sorting-the-sentence](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1970-sorting-the-sentence) |
@@ -145,6 +147,7 @@ LeetCode Solutions Of Natnael
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1755-defuse-the-bomb](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1755-defuse-the-bomb) |
+| [1873-longest-nice-substring](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1873-longest-nice-substring) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -495,6 +498,7 @@ LeetCode Solutions Of Natnael
 | [0948-sort-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1873-longest-nice-substring](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1873-longest-nice-substring) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Matrix
 |  |
@@ -779,6 +783,7 @@ LeetCode Solutions Of Natnael
 | [0342-power-of-four](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0861-flipping-an-image) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1873-longest-nice-substring](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1873-longest-nice-substring) |
 | [1940-maximum-xor-for-each-query](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
