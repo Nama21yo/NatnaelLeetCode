@@ -85,6 +85,7 @@ LeetCode Solutions Of Natnael
 | [0168-excel-sheet-column-title](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -557,6 +558,7 @@ LeetCode Solutions Of Natnael
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0503-next-greater-element-ii) |
@@ -809,6 +811,7 @@ LeetCode Solutions Of Natnael
 | [0025-reverse-nodes-in-k-group](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0486-predict-the-winner) |
 | [1197-parsing-a-boolean-expression](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
