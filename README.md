@@ -75,6 +75,7 @@ LeetCode Solutions Of Natnael
 | [0012-integer-to-roman](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0076-minimum-window-substring) |
@@ -200,6 +201,7 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0055-jump-game) |
@@ -775,6 +777,7 @@ LeetCode Solutions Of Natnael
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0090-subsets-ii) |
