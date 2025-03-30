@@ -180,6 +180,7 @@ LeetCode Solutions Of Natnael
 | [1009-pancake-sorting](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1009-pancake-sorting) |
 | [1028-interval-list-intersections](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1028-interval-list-intersections) |
 | [1168-duplicate-zeros](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1168-duplicate-zeros) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1880-largest-merge-of-two-strings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1880-largest-merge-of-two-strings) |
@@ -329,6 +330,7 @@ LeetCode Solutions Of Natnael
 | [1580-shuffle-the-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1580-shuffle-the-array) |
 | [1582-design-browser-history](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1582-design-browser-history) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1635-number-of-good-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1656-count-good-triplets) |
@@ -483,6 +485,7 @@ LeetCode Solutions Of Natnael
 | [1046-max-consecutive-ones-iii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -640,6 +643,7 @@ LeetCode Solutions Of Natnael
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1752-arithmetic-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
