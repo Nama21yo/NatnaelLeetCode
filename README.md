@@ -40,6 +40,7 @@ LeetCode Solutions Of Natnael
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1217-relative-sort-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1217-relative-sort-array) |
+| [1238-alphabet-board-path](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1238-alphabet-board-path) |
 | [1256-rank-transform-of-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1364-tuple-with-same-product) |
@@ -101,6 +102,7 @@ LeetCode Solutions Of Natnael
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1197-parsing-a-boolean-expression](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1197-parsing-a-boolean-expression) |
+| [1238-alphabet-board-path](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1238-alphabet-board-path) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1304-longest-happy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
