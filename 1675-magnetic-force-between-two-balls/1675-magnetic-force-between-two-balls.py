@@ -9,7 +9,7 @@ class Solution:
             curr = position[0]
             for i in range(len(position)):
                 pos = abs(position[i] -curr)
-                if pos > force:
+                if pos >= force:
                     count += 1
                     curr = position[i]
             return count >= m
@@ -21,4 +21,5 @@ class Solution:
                 l = mid + 1
             else:
                 r = mid - 1
-        return ans + 1
+        return ans 
+        
