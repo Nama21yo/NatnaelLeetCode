@@ -347,6 +347,7 @@ LeetCode Solutions Of Natnael
 | [1635-number-of-good-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1656-count-good-triplets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -502,6 +503,7 @@ LeetCode Solutions Of Natnael
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -662,6 +664,7 @@ LeetCode Solutions Of Natnael
 | [1464-reduce-array-size-to-the-half](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1752-arithmetic-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
