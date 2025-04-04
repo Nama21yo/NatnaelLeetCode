@@ -175,6 +175,7 @@ LeetCode Solutions Of Natnael
 | [0075-sort-colors](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0567-permutation-in-string) |
@@ -526,6 +527,7 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0948-sort-an-array) |
@@ -647,6 +649,7 @@ LeetCode Solutions Of Natnael
 | [0075-sort-colors](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0217-contains-duplicate) |
@@ -906,6 +909,7 @@ LeetCode Solutions Of Natnael
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -927,6 +931,7 @@ LeetCode Solutions Of Natnael
 | [0092-reverse-linked-list-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0328-odd-even-linked-list) |
