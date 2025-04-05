@@ -1,61 +1,38 @@
 class Solution:
-    def __init__(self):
-        self.count = 0
-
-    def merge(self, nums, l, m, h):
-        n1 = m - l + 1
-        n2 = h - m
-        left = nums[l:m+1]  # left subarray
-        right = nums[m+1:h+1]  # right subarray
-
-        i = 0
-        j = 0
-        k = l
-
-        # Merge the two sorted subarrays
-        while i < n1 and j < n2:
-            if left[i] <= right[j]:
-                nums[k] = left[i]
+    def merge(self, nums1, nums2, count):
+        n = len(nums1)
+        m = len(nums2)
+        i = j = 0
+        merged = []
+        while i < n and j  < m:
+            if nums1[i] <= nums2[j]:
+                merged.append(nums1[i])
                 i += 1
             else:
-                nums[k] = right[j]
+                merged.append(nums2[j])
                 j += 1
-            k += 1
-
-        # Copy remaining elements of left, if any
-        while i < n1:
-            nums[k] = left[i]
+        while i < n:
+            merged.append(nums1[i])
             i += 1
-            k += 1
-
-        # Copy remaining elements of right, if any
-        while j < n2:
-            nums[k] = right[j]
+        while j < m:
+            merged.append(nums2[j])
             j += 1
-            k += 1
-
-    def countPairs(self, nums, l, mid, h):
-        right = mid + 1
-        for i in range(l, mid + 1):
-            while right <= h and nums[i] > 2 * nums[right]:
-                right += 1
-            self.count += (right - (mid + 1))
-
-    def mergeSort(self, nums, l, h):
-        if l < h:
-            mid = (l + h) // 2
-
-            # Sort first and second halves
-            self.mergeSort(nums, l, mid)
-            self.mergeSort(nums, mid + 1, h)
-
-            # Count pairs
-            self.countPairs(nums, l, mid, h)
-
-            # Merge the sorted halves
-            self.merge(nums, l, mid, h)
-
-    def reversePairs(self, nums):
-        self.count = 0  # Reset count before processing
-        self.mergeSort(nums, 0, len(nums) - 1)
-        return self.count
+        return merged
+    def reversePairs(self, nums: List[int]) -> int:
+        count = [0]
+        def mergeSort(nums, left, right, count):
+            if left < right:
+                mid = left + (right -  left) // 2
+                left_half = mergeSort(nums, left, mid, count)
+                right_half = mergeSort(nums, mid + 1, right, count)
+                i = j = 0
+                while i < len(left_half) and j < len(right_half):
+                    if left_half[i] > 2 * right_half[j]:
+                        count[0] += len(left_half) - i
+                        j += 1
+                    else:
+                        i += 1
+                return self.merge(left_half, right_half, count)
+            return [nums[left]]
+        mergeSort(nums, 0, len(nums) - 1, count)
+        return count[0]
