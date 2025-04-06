@@ -86,6 +86,7 @@ LeetCode Solutions Of Natnael
 | [0151-reverse-words-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0179-largest-number) |
+| [0257-binary-tree-paths](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -822,6 +823,7 @@ LeetCode Solutions Of Natnael
 | [0077-combinations](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0257-binary-tree-paths) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
@@ -956,6 +958,7 @@ LeetCode Solutions Of Natnael
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -1001,6 +1004,7 @@ LeetCode Solutions Of Natnael
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -1018,6 +1022,7 @@ LeetCode Solutions Of Natnael
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
