@@ -128,6 +128,7 @@ LeetCode Solutions Of Natnael
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -606,6 +607,7 @@ LeetCode Solutions Of Natnael
 | [1720-crawler-log-folder](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1720-crawler-log-folder) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
@@ -640,6 +642,7 @@ LeetCode Solutions Of Natnael
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2487-optimal-partition-of-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -827,6 +830,7 @@ LeetCode Solutions Of Natnael
 | [0257-binary-tree-paths](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0257-binary-tree-paths) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Bit Manipulation
 |  |
 | ------- |
