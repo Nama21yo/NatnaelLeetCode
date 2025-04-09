@@ -37,6 +37,7 @@ LeetCode Solutions Of Natnael
 | [0991-array-of-doubled-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1039-find-the-town-judge](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -327,6 +328,7 @@ LeetCode Solutions Of Natnael
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1028-interval-list-intersections](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1028-interval-list-intersections) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1039-find-the-town-judge](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1095-two-city-scheduling](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1095-two-city-scheduling) |
@@ -1074,6 +1076,7 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0207-course-schedule) |
+| [1039-find-the-town-judge](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
