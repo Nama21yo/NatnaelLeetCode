@@ -268,6 +268,7 @@ LeetCode Solutions Of Natnael
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0217-contains-duplicate) |
@@ -556,6 +557,7 @@ LeetCode Solutions Of Natnael
 | [0073-set-matrix-zeroes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0498-diagonal-traverse) |
@@ -900,6 +902,7 @@ LeetCode Solutions Of Natnael
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0133-clone-graph](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -979,6 +982,7 @@ LeetCode Solutions Of Natnael
 | [0133-clone-graph](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -1003,6 +1007,7 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2793-count-the-number-of-complete-components) |
