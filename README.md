@@ -914,6 +914,7 @@ LeetCode Solutions Of Natnael
 | [0801-is-graph-bipartite](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0801-is-graph-bipartite) |
 | [1005-univalued-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1036-rotting-oranges) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1000,6 +1001,7 @@ LeetCode Solutions Of Natnael
 | [1005-univalued-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1285-balance-a-binary-search-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -1061,6 +1063,7 @@ LeetCode Solutions Of Natnael
 | [1005-univalued-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1285-balance-a-binary-search-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
