@@ -224,6 +224,7 @@ LeetCode Solutions Of Natnael
 | [0410-split-array-largest-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -294,6 +295,7 @@ LeetCode Solutions Of Natnael
 | [0518-coin-change-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -563,6 +565,7 @@ LeetCode Solutions Of Natnael
 | [0240-search-a-2d-matrix-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0695-max-area-of-island) |
 | [0861-flipping-an-image](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0861-flipping-an-image) |
@@ -910,6 +913,7 @@ LeetCode Solutions Of Natnael
 | [0207-course-schedule](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0801-is-graph-bipartite) |
 | [1005-univalued-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1005-univalued-binary-tree) |
