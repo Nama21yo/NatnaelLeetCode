@@ -916,6 +916,7 @@ LeetCode Solutions Of Natnael
 | [0542-01-matrix](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0922-possible-bipartition) |
 | [1005-univalued-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1036-rotting-oranges) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -1002,6 +1003,7 @@ LeetCode Solutions Of Natnael
 | [0543-diameter-of-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0922-possible-bipartition) |
 | [1005-univalued-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1285-balance-a-binary-search-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1285-balance-a-binary-search-tree) |
@@ -1023,6 +1025,7 @@ LeetCode Solutions Of Natnael
 | [0200-number-of-islands](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0922-possible-bipartition) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Data Stream
@@ -1117,6 +1120,7 @@ LeetCode Solutions Of Natnael
 | [0133-clone-graph](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2793-count-the-number-of-complete-components) |
