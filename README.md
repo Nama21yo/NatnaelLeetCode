@@ -319,6 +319,7 @@ LeetCode Solutions Of Natnael
 | [0940-fruit-into-baskets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [0945-snakes-and-ladders](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -572,6 +573,7 @@ LeetCode Solutions Of Natnael
 | [0861-flipping-an-image](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0919-projection-area-of-3d-shapes) |
+| [0945-snakes-and-ladders](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1036-rotting-oranges) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -920,6 +922,7 @@ LeetCode Solutions Of Natnael
 | [0801-is-graph-bipartite](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0922-possible-bipartition) |
+| [0945-snakes-and-ladders](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0945-snakes-and-ladders) |
 | [1005-univalued-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
