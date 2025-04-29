@@ -340,6 +340,7 @@ LeetCode Solutions Of Natnael
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1095-two-city-scheduling](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1095-two-city-scheduling) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1127-last-stone-weight](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1137-height-checker) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -823,6 +824,7 @@ LeetCode Solutions Of Natnael
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0948-sort-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1304-longest-happy-string) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
