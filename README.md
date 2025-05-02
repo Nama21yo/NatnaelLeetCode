@@ -440,6 +440,7 @@ LeetCode Solutions Of Natnael
 | [3639-zero-array-transformation-i](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3651-transformed-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3651-transformed-array) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -589,6 +590,7 @@ LeetCode Solutions Of Natnael
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Design
 |  |
 | ------- |
@@ -679,6 +681,7 @@ LeetCode Solutions Of Natnael
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2716-prime-subtraction-operation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -736,6 +739,7 @@ LeetCode Solutions Of Natnael
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -850,6 +854,7 @@ LeetCode Solutions Of Natnael
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Quickselect
 |  |
 | ------- |
