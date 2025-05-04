@@ -948,6 +948,7 @@ LeetCode Solutions Of Natnael
 | [0322-coin-change](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0542-01-matrix) |
+| [0684-redundant-connection](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -1040,6 +1041,7 @@ LeetCode Solutions Of Natnael
 | [0257-binary-tree-paths](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -1064,6 +1066,7 @@ LeetCode Solutions Of Natnael
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0922-possible-bipartition) |
@@ -1164,6 +1167,7 @@ LeetCode Solutions Of Natnael
 | ------- |
 | [0133-clone-graph](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0922-possible-bipartition) |
