@@ -32,6 +32,7 @@ LeetCode Solutions Of Natnael
 | [0609-find-duplicate-file-in-system](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0768-partition-labels) |
 | [0940-fruit-into-baskets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0952-word-subsets) |
@@ -99,6 +100,7 @@ LeetCode Solutions Of Natnael
 | [0649-dota2-senate](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0722-remove-comments) |
 | [0768-partition-labels](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0812-rotate-string) |
@@ -308,6 +310,7 @@ LeetCode Solutions Of Natnael
 | [0665-non-decreasing-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0665-non-decreasing-array) |
 | [0692-top-k-frequent-words](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0739-daily-temperatures) |
@@ -704,6 +707,7 @@ LeetCode Solutions Of Natnael
 | [0628-maximum-product-of-three-numbers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0721-accounts-merge) |
 | [0917-boats-to-save-people](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0948-sort-an-array) |
@@ -950,6 +954,7 @@ LeetCode Solutions Of Natnael
 | [0542-01-matrix](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0922-possible-bipartition) |
@@ -1043,6 +1048,7 @@ LeetCode Solutions Of Natnael
 | [0543-diameter-of-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0922-possible-bipartition) |
@@ -1068,6 +1074,7 @@ LeetCode Solutions Of Natnael
 | [0200-number-of-islands](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0922-possible-bipartition) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2121-find-if-path-exists-in-graph) |
