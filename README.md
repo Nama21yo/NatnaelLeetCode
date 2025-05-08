@@ -317,6 +317,7 @@ LeetCode Solutions Of Natnael
 | [0792-binary-search](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0859-design-circular-deque) |
 | [0861-flipping-an-image](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0861-flipping-an-image) |
+| [0881-loud-and-rich](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0881-loud-and-rich) |
 | [0890-lemonade-change](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0907-koko-eating-bananas) |
@@ -1054,6 +1055,7 @@ LeetCode Solutions Of Natnael
 | [0721-accounts-merge](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0922-possible-bipartition) |
 | [1005-univalued-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -1181,6 +1183,7 @@ LeetCode Solutions Of Natnael
 | [0684-redundant-connection](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1039-find-the-town-judge) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -1192,6 +1195,7 @@ LeetCode Solutions Of Natnael
 | ------- |
 | [0207-course-schedule](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0881-loud-and-rich) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1558-course-schedule-iv) |
 <!---LeetCode Topics End-->
