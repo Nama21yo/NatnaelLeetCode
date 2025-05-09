@@ -315,6 +315,7 @@ LeetCode Solutions Of Natnael
 | [0724-find-pivot-index](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0792-binary-search) |
+| [0854-making-a-large-island](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0859-design-circular-deque) |
 | [0861-flipping-an-image](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0861-flipping-an-image) |
 | [0881-loud-and-rich](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0881-loud-and-rich) |
@@ -584,6 +585,7 @@ LeetCode Solutions Of Natnael
 | [0542-01-matrix](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0695-max-area-of-island) |
+| [0854-making-a-large-island](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0919-projection-area-of-3d-shapes) |
@@ -960,6 +962,7 @@ LeetCode Solutions Of Natnael
 | [0721-accounts-merge](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0945-snakes-and-ladders) |
 | [1005-univalued-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1005-univalued-binary-tree) |
@@ -1055,6 +1058,7 @@ LeetCode Solutions Of Natnael
 | [0721-accounts-merge](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0854-making-a-large-island) |
 | [0881-loud-and-rich](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0922-possible-bipartition) |
 | [1005-univalued-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1005-univalued-binary-tree) |
@@ -1082,6 +1086,7 @@ LeetCode Solutions Of Natnael
 | [0695-max-area-of-island](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0801-is-graph-bipartite) |
+| [0854-making-a-large-island](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0922-possible-bipartition) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2793-count-the-number-of-complete-components) |
