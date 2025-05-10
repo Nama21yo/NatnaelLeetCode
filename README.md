@@ -151,6 +151,7 @@ LeetCode Solutions Of Natnael
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0940-fruit-into-baskets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0940-fruit-into-baskets) |
@@ -275,6 +276,7 @@ LeetCode Solutions Of Natnael
 | [0179-largest-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0238-product-of-array-except-self) |
@@ -450,6 +452,7 @@ LeetCode Solutions Of Natnael
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -532,6 +535,7 @@ LeetCode Solutions Of Natnael
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0410-split-array-largest-sum) |
