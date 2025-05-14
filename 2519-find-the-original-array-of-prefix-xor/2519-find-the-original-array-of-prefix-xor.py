@@ -6,3 +6,4 @@ class Solution:
             pref[i] = pref[i] ^ running
             running = running ^ pref[i]
         return pref
+
