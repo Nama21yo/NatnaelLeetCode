@@ -434,6 +434,7 @@ LeetCode Solutions Of Natnael
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2621-find-xor-beauty-of-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2621-find-xor-beauty-of-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -520,6 +521,7 @@ LeetCode Solutions Of Natnael
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2491-smallest-even-multiple](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2556-convert-the-temperature) |
+| [2621-find-xor-beauty-of-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2621-find-xor-beauty-of-array) |
 | [2645-pass-the-pillow](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -910,6 +912,7 @@ LeetCode Solutions Of Natnael
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2621-find-xor-beauty-of-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2621-find-xor-beauty-of-array) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Recursion
