@@ -568,6 +568,7 @@ LeetCode Solutions Of Natnael
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0148-sort-list) |
@@ -856,6 +857,7 @@ LeetCode Solutions Of Natnael
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1019,6 +1021,7 @@ LeetCode Solutions Of Natnael
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0948-sort-an-array) |
@@ -1035,6 +1038,7 @@ LeetCode Solutions Of Natnael
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
