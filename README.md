@@ -238,6 +238,7 @@ LeetCode Solutions Of Natnael
 | [0954-maximum-sum-circular-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Array
 |  |
 | ------- |
@@ -450,6 +451,7 @@ LeetCode Solutions Of Natnael
 | [2714-left-and-right-sum-differences](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2716-prime-subtraction-operation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3311-ant-on-the-boundary](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -708,6 +710,7 @@ LeetCode Solutions Of Natnael
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2716-prime-subtraction-operation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Sorting
 |  |
@@ -767,6 +770,7 @@ LeetCode Solutions Of Natnael
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Monotonic Stack
@@ -933,6 +937,7 @@ LeetCode Solutions Of Natnael
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2621-find-xor-beauty-of-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2621-find-xor-beauty-of-array) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Recursion
 |  |
@@ -1177,6 +1182,7 @@ LeetCode Solutions Of Natnael
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Tree
 |  |
 | ------- |
