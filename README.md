@@ -111,6 +111,7 @@ LeetCode Solutions Of Natnael
 | [0886-score-of-parentheses](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0886-score-of-parentheses) |
 | [0952-word-subsets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1197-parsing-a-boolean-expression](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1238-alphabet-board-path](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1238-alphabet-board-path) |
@@ -349,6 +350,7 @@ LeetCode Solutions Of Natnael
 | [1018-largest-perimeter-triangle](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1028-interval-list-intersections](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1028-interval-list-intersections) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1039-find-the-town-judge) |
@@ -1131,6 +1133,7 @@ LeetCode Solutions Of Natnael
 | [0854-making-a-large-island](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0869-similar-string-groups) |
 | [0922-possible-bipartition](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0922-possible-bipartition) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2793-count-the-number-of-complete-components) |
@@ -1237,6 +1240,7 @@ LeetCode Solutions Of Natnael
 | [0820-find-eventual-safe-states](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0922-possible-bipartition) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1039-find-the-town-judge) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1558-course-schedule-iv) |
