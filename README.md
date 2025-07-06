@@ -11,6 +11,7 @@ LeetCode Solutions Of Natnael
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0036-valid-sudoku) |
@@ -243,6 +244,7 @@ LeetCode Solutions Of Natnael
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0016-3sum-closest) |
