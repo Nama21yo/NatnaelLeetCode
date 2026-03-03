@@ -1,31 +1,65 @@
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
-        spiral = []
-
+        rows = len(matrix)
+        cols = len(matrix[0])
         left = 0
-        right = len(matrix[0]) - 1
+        right = cols - 1
+        bottom = rows - 1
         top = 0
-        bottom = len(matrix) - 1
+        # [1,2,3,4,8,12,11,10,9,5,6,7,6]
+        # [1,2,3,4,8,12,11,10,9,5,6,7]
 
+        answer = []
+        # rows != cols
+        # 3 * 4
+        # l = 0 , r = 3, b = 2, t = 0
+        # t=0 , 0 -> 4
+        # top = 1, [1,2,3,4]
+        # right = 3, 1 -> 3
+        # right = 2, [1,2,3,4,8,12]
+        # bottom = 2, 2 -> -1
+        # bottom = 1, [1,2,3,4,8,12,11,10,9]
+        # left = 0, 1 -> 0
+        # left = 1 , [1,2,3,4,8,12,11,10,9, 5]
+        
+        #t = 1, 1 -> 3
+        # top = 2, [1,2,3,4,8,12,11,10,9, 5, 6, 7]
+        
+        # right = 2, 2 -> 1
+        # no loop
+        # right = 1
+
+        # right -> left
+        # bottom = 1, 1 -> 0
+        # revisiting 6
+
+        # 
         while left <= right and top <= bottom:
-            # Traverse from left to right along the top row
+            # on top
+            # left -> right
             for i in range(left, right + 1):
-                spiral.append(matrix[top][i])
+                answer.append(matrix[top][i])
             top += 1
-            # Traverse from top to bottom along the right column
+
+            # on right
+            # top -> bottom
+            # print(left, right, bottom, top)
+            # 0 2 3 1
             for i in range(top, bottom + 1):
-                spiral.append(matrix[i][right])
+                answer.append(matrix[i][right])
             right -= 1
-            # Traverse from right to left along the bottom row
+
+            # on bottom
+            # right -> left
             if top <= bottom:
-                for i in range(right, left - 1, -1):
-                    spiral.append(matrix[bottom][i])
+                for i in range(right , left - 1, -1):
+                    answer.append(matrix[bottom][i])
                 bottom -= 1
-            # Traverse from bottom to top along the left column
+            # on the left
+            # b -> t
             if left <= right:
-                for i in range(bottom, top -1, -1):
-                    spiral.append(matrix[i][left])
+                for i in range(bottom, top - 1, -1):
+                    answer.append(matrix[i][left])
                 left += 1
         
-
-        return spiral
+        return answer
