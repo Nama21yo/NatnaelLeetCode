@@ -1,7 +1,8 @@
 class Solution:
-    def firstOccurence(self, nums, target):
+    def firstOccurrence(self, nums, target):
         l = 0
         r = len(nums) - 1
+
         ans = -1
         while l <= r:
             mid = l + (r - l) // 2
@@ -13,12 +14,14 @@ class Solution:
             else:
                 l = mid + 1
         return ans
-    def lastOccurence(self, nums, target):
+    def lastOccurrence(self, nums, target):
         l = 0
         r = len(nums) - 1
         ans = -1
+
         while l <= r:
             mid = l + (r - l) // 2
+
             if nums[mid] == target:
                 ans = mid
                 l = mid + 1
@@ -28,6 +31,6 @@ class Solution:
                 l = mid + 1
         return ans
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        left = self.firstOccurence(nums, target)
-        right = self.lastOccurence(nums, target)
-        return [left, right]
+        firstElement = self.firstOccurrence(nums, target)
+        lastElement = self.lastOccurrence(nums, target)
+        return [firstElement, lastElement]
