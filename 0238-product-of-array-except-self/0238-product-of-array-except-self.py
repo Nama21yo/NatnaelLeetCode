@@ -1,15 +1,15 @@
 class Solution:
-    def productExceptSelf(self, nums):
-        result = [1] * len(nums)
+    def productExceptSelf(self, nums: list[int]) -> list[int]:
+        n = len(nums)
+        answer = [1] * n
+
+        left = 1
+        for i in range(n):
+            answer[i] = left
+            left *= nums[i]
         
-        prefix = 1
-        for i in range(len(nums)):
-            result[i] = prefix
-            prefix *= nums[i]
-        
-        post = 1
-        for i in range(len(nums) - 1, -1, -1):
-            result[i] *= post
-            post *= nums[i]
-        
-        return result
+        right = 1
+        for i in range(n - 1, -1, -1):
+            answer[i] *= right
+            right *= nums[i]
+        return answer
