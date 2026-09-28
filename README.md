@@ -149,6 +149,7 @@ LeetCode Solutions Of Natnael
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3194-find-words-containing-character](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3451-string-compression-iii](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3451-string-compression-iii) |
@@ -455,6 +456,7 @@ LeetCode Solutions Of Natnael
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2716-prime-subtraction-operation](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2716-prime-subtraction-operation) |
+| [3194-find-words-containing-character](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3194-find-words-containing-character) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3311-ant-on-the-boundary](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/3311-ant-on-the-boundary) |
