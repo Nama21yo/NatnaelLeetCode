@@ -1258,4 +1258,8 @@ LeetCode Solutions Of Natnael
 | [0881-loud-and-rich](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0881-loud-and-rich) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/1558-course-schedule-iv) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
