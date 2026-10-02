@@ -216,6 +216,7 @@ LeetCode Solutions Of Natnael
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -435,6 +436,7 @@ LeetCode Solutions Of Natnael
 | [2195-time-needed-to-buy-tickets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2339-k-divisible-elements-subarrays](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -812,6 +814,7 @@ LeetCode Solutions Of Natnael
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2470-removing-stars-from-a-string](https://github.com/Nama21yo/NatnaelLeetCode/tree/master/2470-removing-stars-from-a-string) |
